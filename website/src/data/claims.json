@@ -1,0 +1,2332 @@
+{
+  "last_updated": "2026-10-29",
+  "note": "Entries compiled 2026-10-29 from published fact-checks by Alt News, Newschecker, India Today Fact Check, The Quint WebQoof, BOOM, Factly, AFP Fact Check, PolitiFact and Reuters, plus institutional sources (WHO, ICNIRP, NASA). Each newly added record was written from the original article, and its conclusion quote was checked verbatim against the text fetched on 2026-10-29. AFP and Reuters block automated fetchers, so their entries predate this review and were left unchanged. Extend weekly via the workflow on the dashboard.",
+  "claims": [
+    {
+      "id": "us-voting-machines-old-clips-2026",
+      "claim": "Clips circulating online show US voting machines switching votes during the 2026 elections.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "AFP Fact Check traced the circulating clips to older, unrelated events and found no evidence they show fraud in the 2026 US elections, which began early voting in October 2026.",
+      "why_misleading": "Old footage is presented as current evidence of machine fraud; the clips predate or are unrelated to the 2026 vote.",
+      "original_source": "Unattributed social media posts",
+      "fact_checker": "AFP Fact Check",
+      "geo_scope": "United States",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "AFP Fact Check",
+          "title": "Old clips used as false proof of fraudulent US voting machines in 2026",
+          "url": "https://factcheck.afp.com/doc.afp.com.D49L6T3"
+        }
+      ]
+    },
+    {
+      "id": "voting-machine-glitches-systemic-fraud",
+      "claim": "Isolated voting-machine glitches in the 2026 US elections prove the vote is systematically rigged.",
+      "status": "misleading",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Localized machine issues did occur and were reported, but AFP Fact Check found they were handled by paper backups and recount procedures; experts state such isolated issues are not evidence of widespread fraud.",
+      "why_misleading": "Real but isolated, corrected incidents are framed as proof of systemic manipulation, omitting the paper-trail safeguards.",
+      "original_source": "Partisan social media accounts",
+      "fact_checker": "AFP Fact Check",
+      "geo_scope": "United States",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "AFP Fact Check",
+          "title": "Localized voting machine issues are not evidence of widespread fraud",
+          "url": "https://factcheck.afp.com/doc.afp.com.D46B69E"
+        }
+      ]
+    },
+    {
+      "id": "eiffel-tower-palestinian-flag-ai",
+      "claim": "A video shows a Palestinian flag hoisted on the Eiffel Tower after riots in Paris.",
+      "status": "false",
+      "category": "world",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "AFP Fact Check determined the video is AI-generated; Meta's AI-detection tooling also flagged the clip as synthetic. No such event was reported by French authorities or news media.",
+      "why_misleading": "A synthetic video is passed off as real footage of an event that never happened.",
+      "original_source": "Social media posts with Hindi-language overlay text",
+      "fact_checker": "AFP Fact Check",
+      "geo_scope": "France / global",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "AFP Fact Check",
+          "title": "Video of Palestinian flag flying from Eiffel Tower is AI-generated",
+          "url": "https://factcheck.afp.com/doc.afp.com.D42U963"
+        }
+      ]
+    },
+    {
+      "id": "eiffel-tower-fire-ai-clip",
+      "claim": "A video shows the Eiffel Tower burning during unrest in France.",
+      "status": "false",
+      "category": "world",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "AFP Fact Check found the clip is AI-generated and was flagged as synthetic content by Meta's detection tool; there was no fire at the Eiffel Tower.",
+      "why_misleading": "Generated footage of a dramatic disaster is shared as genuine news video.",
+      "original_source": "Social media posts",
+      "fact_checker": "AFP Fact Check",
+      "geo_scope": "France / global",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "AFP Fact Check",
+          "title": "AI clip of Eiffel Tower ablaze misleads online",
+          "url": "https://factcheck.afp.com/doc.afp.com.D3WQ8KE"
+        }
+      ]
+    },
+    {
+      "id": "bengal-post-poll-old-video-2026",
+      "claim": "A viral video shows post-poll violence in West Bengal after the 2026 election results.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News identified the original upload of the video, which predates the 2026 West Bengal results; politicians sharing it as post-poll violence were repeating old footage.",
+      "why_misleading": "An old video is re-dated to a current election to imply violence that did not occur then.",
+      "original_source": "Posts by political figures on X (Twitter)",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (West Bengal)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Congress, TMC leaders share old video as post-poll violence in Bengal",
+          "url": "https://www.altnews.in/congress-and-tmc-leaders-are-sharing-an-old-video-depicting-violence-following-the-west-bengal-election-results/"
+        }
+      ]
+    },
+    {
+      "id": "bangladesh-scripted-marriage-video",
+      "claim": "A video shows a Hindu man being forcibly married to a Muslim woman in Bangladesh.",
+      "status": "false",
+      "category": "society",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "BOOM traced the video to a Bangladeshi Facebook page that produces staged skits; the scene is scripted content, not a real incident.",
+      "why_misleading": "A scripted entertainment skit is recirculated as a real communal incident.",
+      "original_source": "Bangladeshi Facebook page producing staged content",
+      "fact_checker": "BOOM",
+      "geo_scope": "Bangladesh / India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "BOOM",
+          "title": "Scripted Video From Bangladesh Viral With False Forced Marriage Claim",
+          "url": "https://www.boomlive.in/fact-check/scripted-video-from-bangladesh-viral-with-false-forced-marriage-claim-32337"
+        }
+      ]
+    },
+    {
+      "id": "sitharaman-2023-presser-clip",
+      "claim": "A video shows Finance Minister Nirmala Sitharaman at a recent post-budget press conference.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Factly matched the clip to a 2023 press conference following that year's budget announcement; it does not show a recent event.",
+      "why_misleading": "A years-old clip is presented as current, implying a recent statement that was never made.",
+      "original_source": "Social media posts",
+      "fact_checker": "Factly",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Factly",
+          "title": "A video of Nirmala Sitharaman from 2023 is falsely shared as a clip from a recent press conference",
+          "url": "https://factly.in/a-video-of-nirmala-sitharaman-from-2023-is-falsely-shared-as-a-clip-from-a-recent-press-conference/"
+        }
+      ]
+    },
+    {
+      "id": "irs-refund-up-11-percent",
+      "claim": "The average IRS tax refund is up 11% compared with last year.",
+      "status": "verified",
+      "category": "finance",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "PolitiFact rated this claim True, citing IRS refund data following the expansion of the standard deduction; the figure matches published government statistics.",
+      "original_source": "Statements by US representatives on X and Facebook",
+      "fact_checker": "PolitiFact",
+      "geo_scope": "United States",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "PolitiFact",
+          "title": "Have IRS refunds increased by 11% in 2026? Yes",
+          "url": "https://politifact.com/factchecks/2026/may/11/nicholas-langworthy/tax-refunds-11-percent-reduction-irs/"
+        }
+      ]
+    },
+    {
+      "id": "5g-health-harm-claim",
+      "claim": "5G mobile networks cause confirmed human health harm at normal exposure levels.",
+      "status": "false",
+      "category": "health",
+      "added_date": "2026-10-27",
+      "review_date": "2026-10-27",
+      "explanation": "WHO and ICNIRP state that, within established exposure limits, no convincing evidence links 5G radiofrequency fields to adverse health effects; repeated claims of proven harm have not been supported by the scientific record.",
+      "why_misleading": "Anecdotes and non-peer-reviewed claims are presented as 'confirmed' harm against institutional reviews of the evidence.",
+      "original_source": "WhatsApp forwards and viral videos",
+      "fact_checker": "World Health Organization / ICNIRP (institutional review)",
+      "geo_scope": "Global",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "World Health Organization",
+          "title": "Radiation and health",
+          "url": "https://www.who.int/health-topics/radiation"
+        },
+        {
+          "source": "ICNIRP",
+          "title": "5G radiofrequency fields",
+          "url": "https://www.icnirp.org/en/frequencies/radiofrequency/5g.html"
+        }
+      ]
+    },
+    {
+      "id": "climate-petition-consensus-claim",
+      "claim": "A petition proves most climate scientists reject mainstream climate science.",
+      "status": "misleading",
+      "category": "environment",
+      "added_date": "2026-10-27",
+      "review_date": "2026-10-27",
+      "explanation": "The petition's signatories are overwhelmingly outside climate research, and its wording omits the core findings on which the field agrees; the scientific consensus documented by major academies and NASA remains unchanged.",
+      "why_misleading": "A signature list with no expertise filter is framed as evidence that the scientific consensus has collapsed.",
+      "original_source": "Email chains and blogs",
+      "fact_checker": "NASA Science (institutional consensus record)",
+      "geo_scope": "Global",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "NASA Science",
+          "title": "Scientific consensus: Earth's climate is warming",
+          "url": "https://climate.nasa.gov/scientific-consensus/"
+        }
+      ]
+    },
+    {
+      "id": "pope-puffer-coat-ai-image",
+      "claim": "A photo shows Pope Francis wearing a fashionable white puffer coat.",
+      "status": "false",
+      "category": "religion",
+      "added_date": "2026-10-27",
+      "review_date": "2026-10-27",
+      "explanation": "Reuters Fact Check confirmed the viral image was generated with an AI image tool; the Vatican never published any such photograph. Archived: the 2023 case is long settled but remains a canonical example of synthetic imagery.",
+      "why_misleading": "A photorealistic synthetic image was shared as a genuine press photograph.",
+      "original_source": "AI image generation, spread via X and Facebook",
+      "fact_checker": "Reuters Fact Check",
+      "geo_scope": "Global",
+      "archived": true,
+      "evidence": [
+        {
+          "source": "Reuters Fact Check",
+          "title": "Image of Pope Francis wearing oversized white puffer coat is AI-generated",
+          "url": "https://www.reuters.com/article/fact-check/image-of-pope-francis-wearing-oversized-white-puffer-coat-is-ai-generated-idUSL1N36120G/"
+        }
+      ]
+    },
+    {
+      "id": "christchurch-conversions-350",
+      "claim": "350 New Zealanders converted to Islam in the weeks after the Christchurch mosque attack.",
+      "status": "unverified",
+      "category": "religion",
+      "added_date": "2026-10-27",
+      "review_date": "2026-10-27",
+      "explanation": "Alt News showed the videos and images shared with this claim are old and unrelated to Christchurch. The specific figure of 350 conversions cannot be independently verified: no official record or reliable reporting confirms or refutes it, so the number itself stays unverified rather than declared false.",
+      "original_source": "WhatsApp and Facebook forwards",
+      "fact_checker": "Alt News (media provenance only; figure itself unverified)",
+      "geo_scope": "New Zealand",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Old video and images shared as individuals converting to Islam after Christchurch massacre",
+          "url": "https://www.altnews.in/old-video-and-images-shared-as-individuals-converting-to-islam-after-christchurch-massacre/"
+        }
+      ]
+    },
+    {
+      "id": "neha-bora-luxury-car-belongs-to-lawyer",
+      "claim": "Social media posts claimed that student leader Neha Bora owns the expensive Toyota Camry she arrived in at a Delhi police station, and questioned how a student could afford it.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News contacted Bora, who said she owns no vehicle and that the car belongs to her lawyer, who escorted her to the station amid a hostile crowd. The number plate visible in the viral video was matched against the vehicle's registration certificate, which names her lawyer as the registered owner, and a former student-union president who was with her that day corroborated her account.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Did Neha Bora go to Mandir Marg police station in her luxury car? No, the vehicle belongs to her lawyer",
+          "url": "https://www.altnews.in/did-neha-bora-go-to-mandir-marg-police-station-in-her-luxury-car-no-the-vehicle-belongs-to-her-lawyer/"
+        }
+      ]
+    },
+    {
+      "id": "bengal-left-bookstalls-only-hindu-festivals-claim",
+      "claim": "A Facebook post by author Taslima Nasrin claimed that Left parties in West Bengal set up bookstalls only during Hindu festivals such as Durga Puja and sell only atheism-related books there.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News gathered social media posts, party handles and news reports documenting Left student and youth organisations running a bookstall near Kolkata's Park Street Christmas celebrations for at least a decade, with press coverage from 2016 and photographs from 2017, 2022 and 2024, plus evidence of stalls during Eid. It also found Left stalls stocking children's classics and general Bengali literature, contradicting the claim that only atheism titles are sold.",
+      "original_source": "Facebook post",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (West Bengal)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Do Left parties in Bengal set up bookstalls during Christmas and Eid? Yes, they do",
+          "url": "https://www.altnews.in/do-left-parties-in-bengal-set-up-bookstalls-during-christmas-and-eid-yes-they-do/"
+        }
+      ]
+    },
+    {
+      "id": "neha-bora-bangladesh-uprising-clip-out-of-context",
+      "claim": "A short clip and posts by a BJP spokesperson and right-wing commentators claimed that student leader Neha Bora wanted a Bangladesh-like uprising in India.",
+      "status": "misleading",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News examined the excerpt of Bora's speech that the BJP's X account and commentators circulated, and her fuller remarks and subsequent statements. Bora said her reference to Bangladesh expressed solidarity with the progressive, secular elements of its student movement and its struggles for democratic and student rights, not support for replicating the entire uprising or the violence in India, and she accused the amplifiers of circulating her video out of context.",
+      "why_misleading": "The circulated excerpt reduced her remarks to a congratulatory line about Bangladesh's Gen Z protests, omitting her stated solidarity with democratic rights, education and communal harmony, which let it be framed as a call for anarchy and violent overthrow in India.",
+      "original_source": "X posts and TV broadcasts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "No, Neha Bora did not call for Bangladesh-like situation in India; viral claim misses important context",
+          "url": "https://www.altnews.in/no-neha-bora-did-not-call-for-bangladesh-like-situation-in-india-viral-claim-misses-important-context/"
+        }
+      ]
+    },
+    {
+      "id": "cjp-forged-bail-bond-document",
+      "claim": "An image of a purported bail bond was shared as proof that detained protest leaders, including Abhijeet Dipke, were released on condition that they would not join any protest for a year.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News checked the viral document against Delhi Police's official statement, which described only a surety bond for maintaining peace and good behaviour with no protest ban, and found discrepancies in the document's date and the magistrate district named. The activists' advocate confirmed no conditions were imposed and provided the court's actual bond format, which looks entirely different, and the shared image was determined to be AI-generated.",
+      "original_source": "X and Facebook posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "BJP leader shares fake, AI-generated image of Abhijeet Dipke’s ‘bail bond’",
+          "url": "https://www.altnews.in/ai-generated-image-of-a-bond-with-dipkes-signature-is-being-falsely-shared-bu-bjp-leader/"
+        }
+      ]
+    },
+    {
+      "id": "college-dance-clips-falsely-linked-cjp-protests",
+      "claim": "Two videos of street dance performances were shared as clips of dancers performing at the protests against the chief election commissioner.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News split both clips into keyframes and ran reverse image searches. The first matched a street dance battle filmed at the Rendezvous cultural fest at IIT Delhi in the first week of October, and the second matched Instagram reels posted in March from a college programme in Chandigarh. The two recordings are unrelated to each other and to the demonstrations, so the posts attaching them to the protests do not stand.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "College dance performance videos falsely linked to CJP protests against Gyanesh Kumar",
+          "url": "https://www.altnews.in/college-dance-performance-videos-falsely-linked-to-cjp-protests-against-gyanesh-kumar/"
+        }
+      ]
+    },
+    {
+      "id": "varanasi-police-ai-generated-dance-video-claim",
+      "claim": "Varanasi police said a viral video showing officers watching and recording dancers at a religious procession was AI-generated and spread to defame the force.",
+      "status": "false",
+      "category": "ai-media",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News traced the clip to the Baba Lat Bhairav baarat procession in Varanasi and located several independent recordings of the same performance, including videos posted by one of the dancers herself on Instagram and further clips on Instagram and Facebook. Shot from different angles, they show the same stage, the same costumes and uniformed officers standing on and around the stage while some filmed with their phones. That corroboration confirms the footage is real and leaves the official assertion that it was synthesised unsupported.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (Uttar Pradesh)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Varanasi Police falsely claims viral video of cops recording dancers is AI-generated",
+          "url": "https://www.altnews.in/varanasi-police-falsely-claims-viral-video-of-cops-recording-dancers-is-ai-generated/"
+        }
+      ]
+    },
+    {
+      "id": "bengal-sir-seven-lakh-appeals-claim",
+      "claim": "West Bengal chief minister Suvendu Adhikari said only about seven lakh of the 27 lakh voters excluded from the roll after SIR adjudication had appealed to the tribunals.",
+      "status": "false",
+      "category": "elections",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News checked the figure against the Election Commission's own disclosures. An RTI response showed the tribunals already had 38,10,620 appeals on August 7, 2026, rising by only 19,306 by September 10 according to the district-wise data annexed to the Commission's Supreme Court affidavit. The Commission's segregated breakdown puts appeals against exclusion at around 22 lakh, so the seven-lakh figure did not match the data available when it was stated.",
+      "original_source": "A public speech by the West Bengal chief minister, carried by news outlets",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (West Bengal)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Only 7 lakh deleted voters appealed in Bengal SIR tribunals? Suvendu Adhiakri’s claim false, shows EC data",
+          "url": "https://www.altnews.in/only-7-lakh-deleted-voters-appealed-in-bengal-sir-tribunals-suvendu-adhiakris-claim-false-shows-ec-data/"
+        }
+      ]
+    },
+    {
+      "id": "gwalior-snatcher-falsely-called-muslim",
+      "claim": "A video of two women slapping a man in a saffron scarf is shared as showing a Muslim man posing as Hindu who was caught stalking college girls and snatching their phones.",
+      "status": "false",
+      "category": "communal",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News split the clip into keyframes and ran a reverse image search, which led to an August 10 news report placing the incident in Gwalior on August 8, where two sisters chased and caught a scooter-borne phone snatcher. A second report and a video of the district police superintendent praising the sisters identified the man as a resident of Punjab, which contradicts the communal description attached to the clip.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (Madhya Pradesh)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Gwalior mobile snatcher falsely portrayed as ‘Muslim man posing as Hindu’ in viral posts by @MeghUpdates, @Hinduspirit0, @AmitLeliSlayer, @VishalDeep5151, @MithilaWaaala, @singh31919",
+          "url": "https://www.altnews.in/gwalior-mobile-snatcher-falsely-portrayed-as-muslim-man-posing-as-hindu-in-viral-posts/"
+        }
+      ]
+    },
+    {
+      "id": "puffed-rice-vendor-assault-scripted-skit",
+      "claim": "A nine-second video of a man emptying a street snack seller's box onto his face is shared as a real assault on a puffed rice vendor.",
+      "status": "false",
+      "category": "society",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Reverse image searches on keyframes led Alt News to the Instagram page of a content creator who stages dramatised videos about poverty and plays the harassed characters himself. After the clip spread, that creator and the man acting as the attacker both posted videos saying it was a prepared skit and not a real incident, and most of their earlier videos were then deleted.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Viral video of ‘puffed rice vendor’ being assaulted is a scripted skit by @kamaalrkhan, @MauryaAlka76391",
+          "url": "https://www.altnews.in/viral-video-of-poor-puffed-rice-vendor-being-assaulted-is-a-scripted-skit/"
+        }
+      ]
+    },
+    {
+      "id": "bail-release-threat-video-actually-from-june",
+      "claim": "A video in which a right-wing activist threatens the Bhim Army chief is shared as having been recorded moments after he walked out of jail on interim bail.",
+      "status": "misleading",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News noted media reports that the man left prison late in the evening on September 17, then ran a reverse image search on keyframes from the clip, which surfaced the same video posted on Facebook and YouTube on September 7. Searching its database of right-wing accounts identified the second man in the frame, whose Instagram timeline carried the video from June 26, establishing that it predates the release.",
+      "why_misleading": "The clip is genuine and the threat was really made, but it dates from June and was already online months before the September 17 release. Presenting it as his first statement after walking out of jail wrongly implies he defied a bail condition against public grandstanding.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Viral video of Swatantra Bhardwaj threatening Bhim Army chief predates his September 17 release on interim bail by Gen-Z India, Mahua Moitra, Vir Sanghvi, Ratna Singh",
+          "url": "https://www.altnews.in/viral-video-of-swatantra-bhardwaj-threatening-bhim-army-chief-predates-his-september-17-release-on-interim-bail/"
+        }
+      ]
+    },
+    {
+      "id": "kharge-breakfast-table-morphed-photo",
+      "claim": "A photo is shared as showing the Congress president seated in a corner, away from the breakfast table where two senior party leaders met the Malaysian prime minister.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "A reverse image search led Alt News to the photograph and a video posted by the Congress party's official X handle on September 13, neither of which shows the party president in the room. Comparing the official photo with the viral one, the only difference is the figure added in the corner, so the image was altered to make it look as though he attended and was kept apart.",
+      "original_source": "X and Facebook posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Mallikarjun Kharge ‘kept away’ from Rahul Gandhi-Anwar Ibrahim’s breakfast table? Morphed photo viral by @ocjain4, social media users",
+          "url": "https://www.altnews.in/mallikarjun-kharge-kept-away-from-rahul-gandhi-anwar-ibrahims-breakfast-table-morphed-photo-viral/"
+        }
+      ]
+    },
+    {
+      "id": "modi-xi-jinping-portrait-old-video-2019",
+      "claim": "A video is shared as showing Prime Minister Narendra Modi gifting Chinese President Xi Jinping a portrait of himself at the recent BRICS summit hosted in New Delhi.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News broke the clip into keyframes and ran a reverse image search, which traced the footage to a meeting between the two leaders at Mamallapuram in October 2019 rather than to any 2026 summit. Contemporary reports by NDTV and The Times of India, a VOA News China video of the gift exchange and Press Information Bureau photographs all show that the Chinese president presented Modi with a porcelain plate bearing Modi's image, so the direction of the gift in the viral caption is also inverted.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Modi gifted self portrait to Xi Jinping? No, old video falsely viral by @Priyaa_Purohit, @LancerFlying, MeIndian03, @HenrySingh_x",
+          "url": "https://www.altnews.in/modi-gifted-self-portrait-to-xi-jinping-no-old-video-falsely-viral/"
+        }
+      ]
+    },
+    {
+      "id": "fake-gaurav-bhatia-quote-graphic-2026",
+      "claim": "A quote graphic on X claimed that BJP spokesperson Gaurav Bhatia had called a man arrested over an assault allegation a Dimaagi Naxal with nothing to do with the party.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News ran keyword searches for the quoted line and found no verified news outlet had reported it. Navbharat Times, whose branding appeared on the graphic, posted a clarification that fake posts were being circulated in its name, and Bhatia himself publicly denied making the statement and demanded an apology. The opposition functionary who first shared the graphic deleted the post within about an hour and a half and later said it had been AI-generated.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Saurav Das shares fake Gaurav Bhatia quote on Swatantra Bhardwaj; deletes after being called out by Saurav Das",
+          "url": "https://www.altnews.in/saurav-das-shares-fake-gaurav-bhatia-quote-on-swatantra-bhardwaj-deletes-after-being-called-out/"
+        }
+      ]
+    },
+    {
+      "id": "nepal-flood-alaska-glacier-burst-video",
+      "claim": "A helicopter video of a glacial lake outburst was shared as footage of the event that triggered the deadly flash floods in Nepal in August 2026.",
+      "status": "false",
+      "category": "environment",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News split the clip into keyframes and reverse image searched them, tracing the footage to an Instagram reel posted days before the Nepal disaster by a United States based helicopter pilot. The pilot's own captions say the video shows a glacial lake outburst over the Columbia Glacier in Alaska, and she had uploaded similar glacier videos before. Nothing links the footage to Nepal.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "Nepal",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Glacier burst video from Alaska falsely viral as Nepal flash flood trigger by @iambmane, @journorai, @kiranpatel1977, @Rajpal_BJP, @pradhyu78651514, @greatandhranews",
+          "url": "https://www.altnews.in/glacier-burst-video-from-alaska-falsely-viral-as-nepal-flash-flood-trigger/"
+        }
+      ]
+    },
+    {
+      "id": "nepal-flood-shaligram-statue-man-made",
+      "claim": "Videos claimed that the August 2026 floods in Nepal revealed the world's largest Shaligram, over 170 million years old and weighing 30 tonnes, at Muktinath.",
+      "status": "misleading",
+      "category": "religion",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Keyword searches led Alt News to June 2026 Nepali news reports about a 22-foot Shaligram replica carved by artists from a rock on the Kali Gandaki river bank at Jomsom in Mustang district between April 20 and May 4, 2026, and unveiled on May 28. The team geolocated the statue, found 2025 Google Street View images showing only a bare rock at the spot, and traced all three viral videos to social media uploads from June 2026.",
+      "why_misleading": "The videos are genuine but show a man-made sculpture carved months earlier and already online since June 2026. Presenting them as a 170-million-year-old stone uncovered by the August disaster invents a miraculous origin story the footage does not support.",
+      "original_source": "Social media posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "Nepal",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Sculpture made in April-May 2026 goes viral as 170-million-year-old Shaligram found in Nepal after floods by Zee News, Social Media users",
+          "url": "https://www.altnews.in/17-crore-year-old-shaligram-found-in-nepal-after-floods-man-made-idol-visuals-shared-with-misleading-claims/"
+        }
+      ]
+    },
+    {
+      "id": "bangladesh-street-assault-false-communal-angle",
+      "claim": "A video of a mob attacking a woman on a street in Bangladesh was shared as showing a Hindu or Dalit teacher assaulted by Muslim men.",
+      "status": "misleading",
+      "category": "communal",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "A reverse image search on the clip's keyframes led Alt News to Bangladeshi news reports from BD News 24, The Dhaka Tribune and Ajker Patrika placing the incident at a clothes market in Rajbari on August 29. The reports identify the victim as a Muslim shop owner attacked by rival traders after an employment dispute escalated into a protest, with BBC News Bangla carrying footage and later reports saying three people were arrested.",
+      "why_misleading": "The clip is authentic and does show a real assault in Bangladesh, but the framing strips its actual context: the victim is a Muslim shop owner attacked over a business and employment dispute, not a Hindu or Dalit teacher targeted on religious or caste grounds.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "Bangladesh",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Assault on Bangladeshi Muslim woman falsely communalised on social media by @vikasindiafirst, @SonOfBharat7, @yati_Official1",
+          "url": "https://www.altnews.in/assault-on-bangladeshi-muslim-woman-falsely-communalised-on-social-media/"
+        }
+      ]
+    },
+    {
+      "id": "nepal-floods-unrelated-old-and-ai-videos",
+      "claim": "Videos and a compilation of clips were shared as footage of the destruction caused by the flash floods in Nepal in August 2026.",
+      "status": "false",
+      "category": "environment",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News keyframed the viral clips and reverse image searched them. One clip matched August 2025 coverage of cloudburst floods in Uttarakhand, India, corroborated by Reuters, BBC and Al Jazeera reporting. Another clip showed visual glitches and scored a 99.9% probability of being AI-generated in Hive's detection tool. A compilation also contained an image of Hurricane Helene damage in the United States circulating since 2024 and a submerged-bus clip from Karachi, Pakistan.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "Nepal",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Nepal floods: Unrelated videos of past disasters, AI visuals falsely viral by @saidercan, @HadYAzmy1, @Ayesha0Khaan, @Ravishanka34381, @medya_post, @JMNewsNetwork_, @redpillmd, @TNT_Media1, @lsardua, @Ahmadansari2233",
+          "url": "https://www.altnews.in/nepal-floods-unrelated-videos-of-past-disasters-ai-visuals-falsely-viral/"
+        }
+      ]
+    },
+    {
+      "id": "rajasthan-cjp-vehicles-self-damage-claim",
+      "claim": "A BJP MLA in Rajasthan claimed that Cockroach Janta Party activists terrorised villagers and smashed their own vehicles' windows during a school inspection visit to garner sympathy.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News examined videos of the August 21 incident in Jaipur district, including clips posted by the activists themselves. The footage shows a man smashing the windows of two of the group's vehicles and beating a person with a stick; the same man told a camera he was with the BJP and stood beside the MLA during his media briefing. The man was identified through his Facebook page, which showed BJP affiliation, and is also the person seen injuring his own hand while breaking the windows.",
+      "original_source": "A politician's media statement, amplified on X",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (Rajasthan)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Did CJP workers in Rajasthan break their vehicles? Video evidence disproves BJP MLA’s claims",
+          "url": "https://www.altnews.in/did-cjp-workers-in-rajasthan-break-their-own-car-windows-video-evidence-proves-this-claim-false/"
+        }
+      ]
+    },
+    {
+      "id": "bangladesh-family-murder-no-communal-angle",
+      "claim": "Posts claimed that six Muslim men killed four members of a Hindu family in Rangpur, Bangladesh, in a targeted communal attack.",
+      "status": "false",
+      "category": "communal",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News ran keyword searches that surfaced Bangladesh Police posts and news reports, including from The Daily Star, identifying two accused and their backgrounds. The police account, based on confessions, says the accused had consumed a potent narcotic, that all four victims died by strangulation, and that cash and ornaments were stolen to stage the crime as a robbery. Police also confirmed there was no sexual assault and the investigation found no communal motive.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "Bangladesh",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "No communal angle in murder of four of Hindu family in Bangladesh; social media claims false by Radharamn Das, Voices of bangladesh, Riju Dutta",
+          "url": "https://www.altnews.in/no-communal-angle-in-murder-of-four-of-hindu-family-in-bangladesh-social-media-claims-false/"
+        }
+      ]
+    },
+    {
+      "id": "india-japan-50-million-hindus-settlement-contract",
+      "claim": "A video of the Indian and Japanese defence ministers signing documents was shared as proof of a contract allowing 50 million Hindus to settle in Japan.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Keyword searches by Alt News found no credible report of any such contract. Business Standard and All India Radio's News on Air covered the same meeting and reported only a memorandum of arrangement on maritime security tied to Indo-Pacific cooperation. Official releases on India-Japan human resource cooperation mention a target of 50,000 skilled personnel over five years, not 50 million settlers.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India and Japan",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "No, Japan and India did not sign a ‘contract’ allowing 50 million Hindus to settle in Japan by @CoinMarginalX, @SuperBrahmin, Shesh Paul Vaid (@spvaid),",
+          "url": "https://www.altnews.in/no-japan-and-india-did-not-sign-a-contract-allowing-50-million-hindus-to-settle-in-japan/"
+        }
+      ]
+    },
+    {
+      "id": "cjp-ranka-companion-misidentified-as-protester",
+      "claim": "Posts claimed that a man accompanying Cockroach Janta Party convenor Ashutosh Ranka in Rajasthan was the same person who threatened a Parliament attack and Nepal-style violence at a July protest in Delhi.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News compared frames from the Rajasthan visit video and the July Delhi protest footage and found they show two different men. The man travelling with the party team posted a video denying he was the protester and condemning the threats, while the man in the protest video was identified separately through his own social media posts. After the comparison was called out, one of the accounts that posted it issued a corrigendum.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "No, man seen with Ashutosh Ranka in Rajasthan is not the one who threatened Nepal-like violence at Jantar Mantar by Vijay Patel, Abhijit Iyer Mitra, Raushan Sinha",
+          "url": "https://www.altnews.in/no-man-seen-with-ashutosh-ranka-in-rajasthan-is-not-the-one-who-threatened-nepal-like-violence-at-jantar-mantar/"
+        }
+      ]
+    },
+    {
+      "id": "abhijeet-dipke-fake-jharkhand-resignation-quote",
+      "claim": "Posts attributed a quote to Cockroach Janta Party founder Abhijeet Dipke saying he sought accountability, not the Jharkhand chief minister's resignation, over the exam-irregularity protests.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News found that none of the pages sharing the quote cited a source, that Dipke's X timeline carried no such statement, and that a keyword search of news coverage of the Jharkhand protests produced no report containing it. His recorded public remarks instead express full support for the protesting students' demands. Contacted directly, Dipke denied ever making the statement.",
+      "original_source": "Instagram and Facebook pages",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (Jharkhand)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "‘Not seeking Jharkhand CM’s resignation…’ Fake quote attributed to Abhijeet Dipke viral by Instagram page Indians, Facebook page Saale Dost Ko Thanks Bolta hai",
+          "url": "https://www.altnews.in/not-seeking-jharkhand-cms-resignation-fake-quote-attributed-to-abhijeet-dipke-viral/"
+        }
+      ]
+    },
+    {
+      "id": "sonia-gandhi-1967-australian-go-go-dancers-photo",
+      "claim": "A blurred black-and-white photograph of women dancing on a table is shared as showing Congress leader Sonia Gandhi as a young woman.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News ran a Google reverse image search on the watermarked picture and reached the Getty Images archive, which captions it as go-go dancers at a Sydney hotel in November 1967. A local history page and Australian newspaper coverage tie the scene to the end of a strike by brewery workers, and zooming in on the three women shows none of them is the Congress leader. Publicly available biographical information places her at a college in Cambridge, United Kingdom, during those years, with no record of a stay in Australia.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "1967 photo of Australian go-go dancers falsely shared to attack Sonia Gandhi",
+          "url": "https://www.altnews.in/1967-photo-of-australian-go-go-dancers-falsely-shared-to-attack-sonia-gandhi/"
+        }
+      ]
+    },
+    {
+      "id": "modi-national-anthem-doctored-video-siwan",
+      "claim": "A video is shared as showing Prime Minister Narendra Modi walking around a stage and greeting people while the national anthem plays.",
+      "status": "misleading",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News read the venue and date on a screen visible in a keyframe of the clip, then used a keyword search to reach the full recording on the official YouTube channel of the Prime Minister, dated June 2025. In that original footage he walks on while being introduced by the speaker and waves to a cheering audience, and the anthem is not audible at any point.",
+      "why_misleading": "The clip is real footage of a June 2025 event in Bihar, but the anthem audio was added afterwards and the scene is presented as an Independence Day moment, making it look as if the Prime Minister ignored the anthem.",
+      "original_source": "Facebook and X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (Bihar)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "No, PM Modi was not walking around as national anthem played; viral video doctored",
+          "url": "https://www.altnews.in/no-pm-modi-was-not-walking-around-as-national-anthem-played-viral-video-doctored/"
+        }
+      ]
+    },
+    {
+      "id": "arjun-singh-bjp-flag-independence-day-clipped-video",
+      "claim": "A video is shared as showing a West Bengal minister hoisting his party flag instead of the tricolour on Independence Day.",
+      "status": "misleading",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News split the viral clip into keyframes and ran a reverse image search on one of them, which led to the minister's own X post of July 6 carrying a longer version of the same video. The unedited footage, recorded at his office during a birth anniversary programme, shows him unfurling the party flag and then hoisting the national flag immediately afterwards.",
+      "why_misleading": "The footage is genuine but is cut short before the national flag is hoisted, and it comes from a July event rather than August 15, so it suggests the tricolour was skipped on Independence Day when it was not.",
+      "original_source": "Facebook and X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (West Bengal)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Bengal minister Arjun Singh hoisted BJP flag on Independence day? No, old & clipped video falsely viral",
+          "url": "https://www.altnews.in/bengal-minister-arjun-singh-hoisted-bjp-flag-on-independence-day-no-old-clipped-video-falsely-viral/"
+        }
+      ]
+    },
+    {
+      "id": "punjab-zombie-drug-video-staged-in-rajasthan",
+      "claim": "A video of two disoriented young men standing by a roadside is shared as evidence of the drug abuse problem in Punjab.",
+      "status": "false",
+      "category": "society",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Punjab Police publicly replied to the post saying the clip was filmed in Sri Ganganagar, Rajasthan. Alt News then found a newspaper report that district police had detained the two men for staging the scene for an Instagram reel, traced a local news page post giving the filming area, and geolocated the petrol pump pillar, tiled forecourt and divided road visible in the video to a matching pump in that city.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (Punjab)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "‘Zombie drugs’ video shared by Harbhajan Singh is not from Punjab",
+          "url": "https://www.altnews.in/zombie-drugs-video-shared-by-harbhajan-singh-is-not-from-punjab/"
+        }
+      ]
+    },
+    {
+      "id": "fake-italian-embassy-statement-x-satire-account",
+      "claim": "A statement purportedly issued by the Italian Embassy in New Delhi condemning remarks by Congress leaders is shared as an official reaction.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News established that the letter first appeared on an X handle whose own bio described it as a satire account and which was later taken down, while the verified government handle of the embassy carried no such message. A check of the embassy website, whose latest update was a scholarship notice in July, found no statement either.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Republic, Gujarat Samachar write reports based on fake Italian Embassy statement",
+          "url": "https://www.altnews.in/republic-gujarat-samachar-write-reports-based-on-fake-italian-embassy-statement/"
+        }
+      ]
+    },
+    {
+      "id": "jharkhand-police-protester-video-actually-patna-rally",
+      "claim": "A video of a woman being dragged and manhandled by uniformed personnel is shared as showing police in Jharkhand beating a student protester.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "A reverse image search of keyframes led Alt News to Instagram posts of July 22 carrying the hashtag of a solidarity rally in Patna, and one frame shows a policewoman whose shoulder strap reads Bihar. A local news channel's footage of the same woman named the spot near a flyover, which the fact-checkers then geolocated.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (Jharkhand)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "BJP shares Patna video as female protester roughed up by Jharkhand police",
+          "url": "https://www.altnews.in/bjp-shares-patna-video-as-female-protester-roughed-up-by-jharkhand-police/"
+        }
+      ]
+    },
+    {
+      "id": "siwan-police-ak47-firing-claim",
+      "claim": "Siwan police said that during the July 25, 2026 student protest a constable fired only four rounds into the air and that no one was injured in the firing.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News examined bystander videos recorded from multiple angles and geolocated them to Siwan during the July 25 violence. The investigation found at least nine rounds fired from AK-47 rifles at two separate locations, plus pistol fire on two other occasions, and three youths were hospitalised with gunshot injuries, contradicting the official statement that only warning shots were fired and nobody was hurt.",
+      "original_source": "Official police statement",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (Bihar)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Siwan: At least nine rounds fired from AK-47 during students’ demonstration on July 25",
+          "url": "https://www.altnews.in/bihar-siwan-opened-fire-by-police-on-student-protesters-cjp-bihar-band/"
+        }
+      ]
+    },
+    {
+      "id": "bengal-anti-goonda-act-not-yet-law",
+      "claim": "West Bengal's chief minister said the state's Anti-Goonda Bill had become law and was invoked against those arrested after the July 24, 2026 protest violence in Kolkata.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News examined all seven FIRs and the police remand papers for the 16 people arrested and found no mention of the Act. Lawyers in two high court petitions said the state itself conceded in court that the Bill had not become an Act, the investigating officer said the legislation could not yet be enforced, and the Governor's office said no gazette notification had been issued.",
+      "original_source": "Statements by the West Bengal chief minister in the state assembly and to the media",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (West Bengal)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "The law Bengal CM ‘invoked’ against July 24 protesters is not yet law",
+          "url": "https://www.altnews.in/the-law-bengal-cm-suvendu-adhikari-invoked-against-july-24-protesters-is-not-yet-law/"
+        }
+      ]
+    },
+    {
+      "id": "nadda-modi-staged-welcome-viral-video",
+      "claim": "A video was shared claiming that J P Nadda travelled in the same car as Prime Minister Narendra Modi, stepped out first and then greeted him with flowers in a staged welcome.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Reverse image searches on frames of the clip traced it to footage posted in July 2024 by news agency ANI's Hindi account, showing the Prime Minister arriving at the BJP headquarters in Delhi. A longer broadcast from another angle showed the man stepping out of the car wore different clothing and was not J P Nadda, who arrived separately moments later with the bouquet.",
+      "original_source": "Social media posts on X, Facebook and Instagram",
+      "fact_checker": "Alt News",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "J P Nadda got down from PM Modi’s car to welcome him with flowers? No, viral claims false by social media users",
+          "url": "https://www.altnews.in/fact-check-viral-video-does-not-show-pm-modi-and-jp-nadda-arriving-together-or-staging-a-greeting-for-the-cameras/"
+        }
+      ]
+    },
+    {
+      "id": "delhi-jantar-mantar-pellet-gun-use",
+      "claim": "Reports and social media posts said police fired pellet guns at protesters during the July 20, 2026 Jantar Mantar demonstration in Delhi, which Delhi Police publicly called fake news.",
+      "status": "verified",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News accessed a General Diary entry registered at Parliament Street police station recording that one anti-riot gun and two rounds of plastic pellets, along with tear smoke grenades and other shells, were used for crowd control during the July 20 protest. The record matches medico-legal records, visual evidence and the accounts of injured protesters and a journalist reported earlier, and it contradicts the denial issued by Delhi Police.",
+      "original_source": "Media reports and social media posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (Delhi)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Delhi Police records confirm what was already evident: Pellet guns were used on protestors on July 20",
+          "url": "https://www.altnews.in/delhi-police-records-confirm-what-was-already-evident-pellet-guns-were-used-on-protestors-on-july-20/"
+        }
+      ]
+    },
+    {
+      "id": "delhi-dcp-resignation-deepfake-video",
+      "claim": "A viral video was shared as showing a Delhi Police deputy commissioner of police announcing his resignation in solidarity with protesting students.",
+      "status": "false",
+      "category": "ai-media",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News reverse-searched keyframes of the clip and traced it to an official Delhi Police video posted days earlier, in which the same officer spoke about action against foreign social media accounts, with an identical flag-and-insignia background. An AI-detection tool assessed the viral clip as likely synthetic, and Delhi Police issued its own fact check confirming the officer never resigned and the footage was fabricated.",
+      "original_source": "YouTube and social media posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (Delhi)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Delhi DCP resigned to support students’ protest? No, viral video is a deepfake by social media users",
+          "url": "https://www.altnews.in/delhi-dcp-resigned-to-support-students-protest-no-viral-video-is-a-deepfake/"
+        }
+      ]
+    },
+    {
+      "id": "mexico-world-cup-video-falsely-linked-delhi-protest",
+      "claim": "A video of a crowd celebration in which a man pulls off a masked woman's face covering was shared as filmed at the student protest site at Jantar Mantar in Delhi.",
+      "status": "misleading",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News reverse-searched keyframes and traced the clip to Instagram and YouTube posts from late June and early July whose captions and hashtags placed it in Mexico City during FIFA World Cup celebrations after Mexico's knockout-stage wins. The face covering is a traditional Mexican wrestling mask, and the clip predates the Delhi protest it was said to depict.",
+      "why_misleading": "The footage is genuine but was shot at World Cup festivities in Mexico, not at the Delhi protest. Presenting it as protest footage wrongly suggests the student demonstration had degenerated into indecent behaviour.",
+      "original_source": "X and Instagram posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (Delhi)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Mexico World Cup celebration video falsely linked to Delhi CJP protest by Vishnu Rajput, @Vinay__pandit_",
+          "url": "https://www.altnews.in/mexico-world-cup-celebration-video-falsely-linked-to-delhi-cjp-protest/"
+        }
+      ]
+    },
+    {
+      "id": "ranchi-clash-video-falsely-shared-as-kolkata-protest",
+      "claim": "A video of men atop a fire-service truck hurling objects at a crowd was shared as showing BJP workers stone-pelting a student protest rally in Kolkata on July 24.",
+      "status": "misleading",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News matched the clip against news agency posts and a Statesman report describing a July 23 confrontation outside the BJP state headquarters in Ranchi, Jharkhand, during a Congress march over the NEET paper leak, where rival groups threw eggs, tomatoes and stones. The incident predated the Kolkata rally the video was said to show and took place in another state.",
+      "why_misleading": "The footage is real but shows a political clash in Ranchi on July 23, not events at the Kolkata protest on July 24. Sharing it with a Kolkata caption falsely pins the violence on that rally and on a named political side.",
+      "original_source": "X and Facebook posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (West Bengal)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "BJP members pelting stones during Kolkata CJP protest? Ranchi video falsely viral by Md Salim, Aparna Bhattacharya, Suman Sengupta, and social media users.",
+          "url": "https://www.altnews.in/bjp-members-pelting-stones-during-kolkata-cjp-protest-ranchi-video-falsely-viral/"
+        }
+      ]
+    },
+    {
+      "id": "naara-e-takbeer-clipped-video-cjp-protest",
+      "claim": "A five-second clip of Islamic slogans being chanted at the Delhi student protest was shared as proof that the movement had taken a communal turn.",
+      "status": "misleading",
+      "category": "communal",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News keyword-searched the clip and found a longer version posted on Instagram a day earlier, in which the speaker first says Muslims also chant Jai Shri Ram and Bharat Mata Ki Jai, chants both along with the takbir, and frames the moment as a message of unity. The viral portion was cut from this longer speech.",
+      "why_misleading": "The clip is authentic but truncated: it removes the surrounding speech in which the speaker paired Hindu and Muslim slogans to stress unity, so a message of solidarity is recast as evidence of a communal agenda.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (Delhi)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "BJP leader, Right-wing handles share clipped video, claim communal agenda behind CJP stir by Tajinder Bagga, Nupur Sharma, Raushan Sinha",
+          "url": "https://www.altnews.in/bjp-leader-and-supporters-shared-clipped-video-of-naara-e-taqbeer-slogans-raised-at-cjp-protest-jantar-mantar/"
+        }
+      ]
+    },
+    {
+      "id": "piyush-goyal-hanging-remark-deepfake",
+      "claim": "A video was shared as showing Union Minister Piyush Goyal saying that two or three student protesters should be hanged to demonstrate the government's power.",
+      "status": "false",
+      "category": "ai-media",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News found the minister's lip movements out of sync with the audio and traced the source footage by reverse image search to a PTI video of July 23, in which he spoke about fast-track courts for paper leak cases and measures for young people, with no such remark. The minister filed a police complaint over the doctored clip, an FIR was registered, and the Press Information Bureau confirmed the video was AI-generated.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "No, Piyush Goyal did not call for hanging ‘cockroaches’; viral video is a deepfake by Samajwadi Party leader IP Singh, @puneetsinghlive, @SureshC85120965",
+          "url": "https://www.altnews.in/no-piyush-goyal-did-not-call-for-hanging-cockroaches-viral-video-is-a-deepfake/"
+        }
+      ]
+    },
+    {
+      "id": "jamaat-e-islami-fake-support-letter-cjp",
+      "claim": "An image of a letter was shared as showing Bangladesh's Jamaat-e-Islami party declaring support for India's student protest movement, and several TV news outlets reported it.",
+      "status": "false",
+      "category": "communal",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News inspected the document and found the country name misspelt in the header, a logo that did not match the party's, and no registered address or reference number. The party's official X account publicly denounced the letter as forged, and three AI-detection tools flagged the image as likely AI-generated. Republic, News18 and NewsX had amplified the claim without verification.",
+      "original_source": "Social media posts and TV news broadcasts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (Delhi)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Based on viral fake letter, Republic, News 18 claim Jamaat-e-Islami support for CJP by Republic, NewsX, MeghUpdates, jatipur Dialogues, Kreatelymedia, Rishi Bagree",
+          "url": "https://www.altnews.in/based-on-viral-fake-letter-republic-news-18-claim-jamaat-e-islami-support-to-cjp/"
+        }
+      ]
+    },
+    {
+      "id": "gaya-road-accident-video-falsely-shared-as-protest-arson",
+      "claim": "A video of an enraged man attempting to set a black SUV alight while police negotiate was shared as showing a Muslim protester torching a BJP worker's car during the Delhi student agitation.",
+      "status": "misleading",
+      "category": "communal",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News reverse-searched a keyframe and traced the clip to posts by Bihar news outlets on July 17 about an incident in Gaya, where a speeding SUV had hit a motorcycle and a rickshaw the previous day and injured two people, after which an angry crowd tried to burn the vehicle. News18 and Dainik Bhaskar reports confirmed the location and the road-accident trigger, days before and far from the Delhi protest.",
+      "why_misleading": "The footage is genuine but captures a crowd's reaction to a road accident in Gaya, Bihar, and has no link to the Delhi protest. Sharing it with a communal label falsely portrays the student movement as violent and sectarian.",
+      "original_source": "X and Facebook posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (Delhi)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Mob vandalizing SUV: Bihar video falsely viral as Muslim CJP protestor torching BJP leader’s car by @wokeflix, @AstroCounselKK, Siddhartha Mondal",
+          "url": "https://www.altnews.in/mob-vandalizing-suv-bihar-video-falsely-viral-as-muslim-cjp-protestor-torching-bjp-leaders-car/"
+        }
+      ]
+    },
+    {
+      "id": "naseeruddin-shah-old-mumbai-video-jantar-mantar",
+      "claim": "A video of actor Naseeruddin Shah standing in a crowd with his son was shared as showing him arriving at Delhi's Jantar Mantar during the July 20 student protest.",
+      "status": "misleading",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News found a longer version of the selfie clip posted on Instagram on July 15, five days before the protest, which pans to show the location as Regal Cinema at Colaba Causeway in Mumbai after a film screening. The actor's son who appears in the video told Alt News the family supports the movement but the clip was from the Mumbai screening, and the actor was away for a shoot; contrary to the posts, the actor's elder son is not in the frame and the actor had not visited the protest site as of July 22.",
+      "why_misleading": "A genuine, older video from a Mumbai film outing is presented as the actor's presence at the Delhi protest, and one of his sons is wrongly said to appear in it, manufacturing a celebrity visit that had not happened.",
+      "original_source": "Instagram and X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (Delhi)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Old video from Mumbai falsely circulated as Naseeruddin Shah joining Jantar Mantar stir by News18, @LakhanmeenaIND, @SidKeVichaar, @bekhayalime, other Instagram, Facebook, YouTube accounts",
+          "url": "https://www.altnews.in/old-video-from-mumbai-falsely-circulated-as-naseeruddin-shah-joining-jantar-mantar-stir/"
+        }
+      ]
+    },
+    {
+      "id": "nail-baton-videos-july-20-delhi-protest-official-denial",
+      "claim": "Delhi Police and the Press Information Bureau asserted that viral videos showing police personnel carrying batons fitted with nails were unrelated to the July 20 student protest in Delhi.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News obtained the videos from their uploaders, examined file metadata showing one was filmed on the evening of July 20, matched frames against Google Maps street view to geolocate the spot, and spoke to a protester who witnessed the confrontation. The checks confirmed a Delhi Police official did carry a nail-studded baton at the protest, though there is no evidence the baton was used to strike anyone.",
+      "original_source": "X posts by official government handles",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (Delhi)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Baton-with-nails videos indeed from July 20 protests. Delhi Police, PIB’s ‘fact check’ incorrect by Delhi Police, PIB, DD News, OpIndia",
+          "url": "https://www.altnews.in/baton-with-nails-videos-indeed-from-july-20-protests-delhi-police-pibs-fact-check-incorrect/"
+        }
+      ]
+    },
+    {
+      "id": "cjp-protest-hydrogen-train-old-patna-video",
+      "claim": "A video showing people pelting stones at a train inside a station is shared as protesters marching to Parliament attacking the newly launched hydrogen train in Delhi.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Reverse image searches of keyframes led Alt News to June 2026 footage of police-constable aspirants stone-pelting at Patliputra railway station in Patna, Bihar, matched against earlier news video and a BBC report about the unrest. Northern Railway publicly stated that the train in the clip is hauled by a WAG 12 locomotive, not the hydrogen train, and that hydrogen train services were running to schedule.",
+      "original_source": "X, Instagram and Facebook posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "BJP leaders share old video from Patna claiming CJP protestors pelted stones at newly launched hydrogen train",
+          "url": "https://www.altnews.in/bjp-leaders-share-old-video-from-patna-claiming-cjp-protestors-pelted-stones-at-newly-launched-hydrogen-train/"
+        }
+      ]
+    },
+    {
+      "id": "sunita-williams-jantar-mantar-old-kerala-video",
+      "claim": "A video of astronaut Sunita Williams walking through a crowd with a police escort is shared as her visiting the Jantar Mantar protest site in Delhi to show solidarity with the student protests.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News found no media reports of any such visit, and reverse image searches of the video's keyframes traced it to an Instagram clip from January 2026 at the Kerala Literature Festival in Kozhikode. The festival's official account posted footage of Williams attending, and Kerala Police markings visible on the escorting officers confirm the location.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "No, Sunita Williams did not visit CJP protest site at Jantar Mantar",
+          "url": "https://www.altnews.in/no-sunita-williams-did-not-visit-cjp-protest-site-at-jantar-mantar/"
+        }
+      ]
+    },
+    {
+      "id": "baruipur-accused-fake-polling-agent-document",
+      "claim": "A screenshot of a purported election form is shared as proof that a man arrested in connection with the rape and murder of a minor in West Bengal served as a polling agent for a CPI(M) candidate in the 2026 assembly elections.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News found the viral document appears to be a filled-up Form 10, but the polling-station name it carries does not match booth 192 in the ECI's official list for the Baruipur Paschim constituency. Its reporters then visited the booth's village and identified Provakar Sardar as the man who actually served as the candidate's polling agent, corroborated by local voters, the booth-level officer and the CPI(M), which refuted any association with the arrested man. The document is fabricated.",
+      "original_source": "Facebook posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (West Bengal)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Baruipur rape-murder accused Ananda Sardar was CPI(M)’s polling agent? No, fake document viral",
+          "url": "https://www.altnews.in/baruipur-rape-murder-accused-ananda-sardar-was-cpims-polling-agent-no-fake-document-viral/"
+        }
+      ]
+    },
+    {
+      "id": "modi-auckland-speech-beef-claim",
+      "claim": "A video clip from Prime Minister Narendra Modi's diaspora address in Auckland is shared claiming he said India is the world's largest beef producer.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News slowed the audio to 0.75x speed and found Modi actually said India is the world's second largest wheat producer; he never used the word beef. The official transcript of the speech released by the Press Information Bureau contains the wheat remark and no mention of beef.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "No, PM Modi did not say India was world’s largest beef producer",
+          "url": "https://www.altnews.in/no-pm-modi-did-not-say-india-was-worlds-largest-beef-producer/"
+        }
+      ]
+    },
+    {
+      "id": "rishikesh-sadhu-not-muslim-in-disguise",
+      "claim": "A video of young girls confronting a saffron-robed ascetic in Rishikesh is shared claiming the man was actually a Muslim in disguise as a Hindu sadhu to lure girls.",
+      "status": "false",
+      "category": "communal",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News geolocated the clip to a resort area in Rishikesh and traced it to a July 2026 Instagram upload whose caption made no mention of the man's religion. The creator who filmed the altercation and police at Muni Ki Reti station both confirmed the man is a Hindu sadhu who has lived in the area for decades; police verified his identity documents and criminal record, and the girls' families gave a written statement that no harassment occurred.",
+      "original_source": "Social media posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (Uttarakhand)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Monk confronted over ‘harassment’ of girls in Rishikesh not a Muslim in disguise",
+          "url": "https://www.altnews.in/rishikesh-muslim-man-wasnt-pretending-to-be-hindu-sadhu-approaching-girls/"
+        }
+      ]
+    },
+    {
+      "id": "modi-melbourne-event-ai-morphed-newspaper-clipping",
+      "claim": "A newspaper clipping is shared as an Australian daily report saying free curry and roti drew the huge crowd to Prime Minister Narendra Modi's event in Melbourne.",
+      "status": "false",
+      "category": "ai-media",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News found the body text, placards and T-shirts in the viral image were garbled in a way typical of AI-manipulated images, and a reverse image search located the original readable newspaper page shared on X by a CNN-News18 journalist. The real Age page carried no such headline, confirming the clipping was doctored to insert a fabricated one.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "Australia",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Free food drew crowd to Modi event in Australia? Morphed newspaper clipping viral",
+          "url": "https://www.altnews.in/did-australian-media-expose-that-free-curry-and-roti-drew-crowds-to-modi-event-fact-check/"
+        }
+      ]
+    },
+    {
+      "id": "paris-old-psg-clashes-as-morocco-world-cup-riots",
+      "claim": "A video of a mob throwing flares and setting vehicles ablaze is shared as Moroccan fans and migrants rioting in Paris after Morocco's FIFA World Cup exit.",
+      "status": "false",
+      "category": "world",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News found no recent reports of violence in Paris after the match, and reverse image searches of keyframes traced the footage to a 31 May 2026 X post and a Wall Street Journal video of the same date. These showed the clip captures clashes on 30 May during celebrations after Paris Saint-Germain's UEFA Champions League win, unrelated to the World Cup.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "France",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "No, viral video does not show ‘migrant Moroccans’ rioting in Paris after World Cup defeat",
+          "url": "https://www.altnews.in/no-viral-video-does-not-show-migrant-moroccans-rioting-in-paris-after-world-cup-defeat/"
+        }
+      ]
+    },
+    {
+      "id": "kurukshetra-priest-attack-accused-not-muslim",
+      "claim": "A CCTV clip of a man dragging another person by a rope tied around his neck is shared as a Muslim man attacking a Hindu temple priest in Kurukshetra, Haryana.",
+      "status": "false",
+      "category": "communal",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Reverse image searches led Alt News to news reports identifying the attackers as a Hindu couple who assaulted the 74-year-old priest over a feud connected to devotee numbers at the temple and a nearby shrine. Kurukshetra Police announced the arrests on Facebook, and the station house officer confirmed to Alt News that the accused are Hindus, contradicting the viral identity claims.",
+      "original_source": "X and Facebook posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (Haryana)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Kurukshetra video: Accused in temple-priest attack not Muslims",
+          "url": "https://www.altnews.in/kurukshetra-video-accused-in-temple-priest-attack-not-muslims/"
+        }
+      ]
+    },
+    {
+      "id": "iskcon-mid-day-meal-vegetarian-state-protein-claim",
+      "claim": "An ISKCON spokesperson said protein intake is highest in India’s vegetarian states and lowest in the northeast, so eggs in school mid-day meals can be replaced without nutritional loss.",
+      "status": "false",
+      "category": "health",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News tested the regional comparison against ICMR-INDIAB’s national nutrition survey, which the article cites as finding that the northeast had the highest overall protein intake of any Indian region, while the north and central regions recorded the lowest animal protein intake. That is the reverse of the pattern described in the spokesperson’s interviews. ISKCON subsequently placed him on compulsory leave and directed him not to represent the organisation.",
+      "original_source": "News interviews shared on social media",
+      "fact_checker": "Alt News",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Eggs off the plate? The science behind the mid-day meal debate",
+          "url": "https://www.altnews.in/eggs-off-the-plate-the-science-behind-the-mid-day-meal-debate/"
+        }
+      ]
+    },
+    {
+      "id": "pune-fort-murder-case-dance-video-misidentification",
+      "claim": "A clip of two women dancing is shared as showing the woman arrested in connection with a murder case at a fort near Pune.",
+      "status": "false",
+      "category": "crime",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Alt News broke the 36-second clip into keyframes and ran reverse image searches on them, which led to an Instagram post from June 21, 2026 carrying the same video and identifying the woman who appears in it. A side-by-side comparison of the two faces showed that the dancer and the arrestee share only some facial features, so the viral clip does not feature the accused.",
+      "original_source": "X posts",
+      "fact_checker": "Alt News",
+      "geo_scope": "India (Maharashtra)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Alt News",
+          "title": "Viral video does not show Pune Fort case accused Siya Goyal dancing",
+          "url": "https://www.altnews.in/viral-video-does-not-show-pune-fort-case-accused-siya-goyal-dancing/"
+        }
+      ]
+    },
+    {
+      "id": "diwali-offer-clone-shopping-apps-scam",
+      "claim": "Advertisements and lookalike shopping apps are offering branded products at steep discounts as Diwali deals.",
+      "status": "false",
+      "category": "scam",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "India Today Fact Check traced such offers to counterfeit apps and identified at least 25 fake Meesho apps and two fake Flipkart apps using near-identical names and real brand logos. The team found the apps promise cash on delivery but push buyers to UPI at checkout, advertise review counts far higher than the few reviews actually readable, and quote impossible delivery dates. It also flagged the sponsored posts to Meta, which removed several for breaching its advertising standards.",
+      "original_source": "Facebook and Instagram ads",
+      "fact_checker": "India Today Fact Check",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "India Today Fact Check",
+          "title": "Boom boom… doom! Beware of fake Diwali offers flying around like rockets",
+          "url": "https://www.indiatoday.in/fact-check/story/fake-diwali-offers-clone-flipkart-meesho-apps-online-shopping-scams-3027023-2026-10-28"
+        }
+      ]
+    },
+    {
+      "id": "cyclone-arnab-old-unrelated-storm-videos",
+      "claim": "Four videos are shared as footage of Cyclone Arnab striking the Andhra Pradesh coast in October 2026.",
+      "status": "misleading",
+      "category": "environment",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Reverse image and Google Lens searches placed three of the clips elsewhere: a September 2026 tornado in Vaishali district, Bihar, a March 2026 tornado in Mayurbhanj, Odisha, reported by Hindustan Times and The Times of India, and Super Typhoon Bavi footage from the western Pacific first published in July. The fourth clip was found on Instagram in May, months before the cyclone made landfall, though the team could not establish where it was filmed.",
+      "why_misleading": "Every clip is real storm footage, but it was shot in Bihar, Odisha, the western Pacific and an unidentified earlier location, and none of it records Cyclone Arnab.",
+      "original_source": "Social media posts",
+      "fact_checker": "India Today Fact Check",
+      "geo_scope": "India (Andhra Pradesh)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "India Today Fact Check",
+          "title": "Fact Check: Videos of Cyclone Arnab? Don’t fall for loud lies",
+          "url": "https://www.indiatoday.in/fact-check/story/cyclone-arnab-fact-check-four-viral-storm-videos-old-unrelated-3026812-2026-10-28"
+        }
+      ]
+    },
+    {
+      "id": "ai-generated-bride-loco-pilot-video",
+      "claim": "A video shows a newly married woman in bridal attire driving a train as a loco pilot straight after her wedding.",
+      "status": "false",
+      "category": "ai-media",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "India Today Fact Check spotted synthetic-media artefacts, including a garland in the cab fluttering in the wind while the woman's saree and hair stayed motionless, and the HiveModeration tool rated the clip 80 per cent likely to be AI-generated. A reverse search of the frames found the same video on a YouTube channel that labels its uploads as AI-made and hosts several similar bridal loco pilot clips. Comparing it with an August upload from another channel that films train drivers showed the viral clip was built on real footage of a man.",
+      "original_source": "Posts on X",
+      "fact_checker": "India Today Fact Check",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "India Today Fact Check",
+          "title": "Fact Check: New bride in saree-sindoor drives train? This video is AI-generated",
+          "url": "https://www.indiatoday.in/fact-check/story/ai-generated-bride-loco-pilot-viral-video-fact-check-3026260-2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "arunachal-china-faceoff-three-videos-false-claims",
+      "claim": "Three videos are shared as showing recent face-offs between Indian and Chinese troops in Arunachal Pradesh.",
+      "status": "misleading",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Reverse image searches and the markings on the soldiers' vests traced the first clip to a Special Operations Forces training session at a range in Kazakhstan posted in July. The second had been on Instagram since December 2025 and matches contemporaneous News18 reporting on Chinese soldiers giving medical aid to an Indian soldier who fainted at the Line of Actual Control in Ladakh. The third was carried by Arunachali news outlets in September as locals protesting the Siang dam project at Beging village.",
+      "why_misleading": "All three clips are authentic, but they record a Kazakh training exercise, a December 2025 medical-aid incident in Ladakh and an anti-dam protest in Arunachal Pradesh, not a confrontation between the two armies.",
+      "original_source": "Social media posts",
+      "fact_checker": "India Today Fact Check",
+      "geo_scope": "India (Arunachal Pradesh)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "India Today Fact Check",
+          "title": "Fact Check: These 3 videos DON’T show recent China-India face-offs in Arunachal Pradesh",
+          "url": "https://www.indiatoday.in/fact-check/story/arunachal-india-china-face-offs-three-viral-videos-fact-check-3026160-2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "arunachal-china-border-two-videos-nathula-siang-protest",
+      "claim": "Two videos are shared as showing the situation on the Arunachal Pradesh-China border after reports of a face-off between Indian and Chinese troops.",
+      "status": "misleading",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "A reverse search of keyframes matched the first clip, showing a watchtower, to an October Instagram upload from Nathu La on the Sikkim-Tibet border, and a comparison with Google Street View of the same viewpoint confirmed the location. A Google Lens search placed the second clip in a May 2025 compilation from Arunachal's Siang district showing an anti-dam protest at Beging village, which NDTV reported is more than 100 km from the nearest point on the China border.",
+      "why_misleading": "Both clips are genuine, but one was filmed at Nathu La in Sikkim and the other at a May 2025 dam protest in Siang district, nowhere near a border confrontation.",
+      "original_source": "Social media posts",
+      "fact_checker": "India Today Fact Check",
+      "geo_scope": "India (Arunachal Pradesh)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "India Today Fact Check",
+          "title": "Fact Check: These videos DO NOT show ongoing tensions at Arunachal-China border",
+          "url": "https://www.indiatoday.in/fact-check/story/arunachal-pradesh-china-border-videos-unrelated-troop-tensions-fact-check-3025273-2026-10-26"
+        }
+      ]
+    },
+    {
+      "id": "chinese-army-arunachal-claim-bengaluru-mock-drill-video",
+      "claim": "A video is shared as Chinese PLA soldiers searching Indian troops inside Arunachal Pradesh.",
+      "status": "misleading",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "A reverse search found a longer, higher-quality version of the clip on YouTube dated May, before the reported face-offs. The team read two Kannada shop signboards in the frame, located one of the shops in Devanahalli in Bengaluru, and its owner confirmed to India Today Fact Check that he filmed an Indian Army mock drill there in May.",
+      "why_misleading": "The footage is real but shows an Indian Army mock drill in Bengaluru; the shop signage and the shopkeeper's own account place it in Karnataka, not on the Arunachal border, and the soldiers are Indian rather than Chinese.",
+      "original_source": "Posts on X",
+      "fact_checker": "India Today Fact Check",
+      "geo_scope": "India (Arunachal Pradesh)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "India Today Fact Check",
+          "title": "Fact Check: This video DOES NOT show the Chinese Army in Arunachal Pradesh",
+          "url": "https://www.indiatoday.in/fact-check/story/fact-check-arunachal-pradesh-pla-viral-video-karnataka-mock-drill-3024782-2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": "grok-2020-bengal-claim-delhi-protest-photo",
+      "claim": "A photograph of a police officer choking a Sikh man, posted during the Delhi protests, is an old image from West Bengal.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "The New York Times published the photograph in an October 11 feature on the Delhi protests and credited a photojournalist who confirmed to India Today Fact Check that she took it on October 10 near the Hanuman temple at Connaught Place; the paper's communications director backed this with an official press note. When the team put the same image to the AI chatbot behind the viral answer, it repeated the 2020 West Bengal story and attached an unrelated identity and news report to the man, while Google's Gemini offered a third, equally wrong date and city.",
+      "original_source": "Posts on X",
+      "fact_checker": "India Today Fact Check",
+      "geo_scope": "India (Delhi)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "India Today Fact Check",
+          "title": "Grok is lying about this photo, not Saurav Das",
+          "url": "https://www.indiatoday.in/fact-check/story/grok-fact-check-saurav-das-delhi-protest-photo-not-2020-bengal-3017456-2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": "delhi-protest-army-video-2017-pulwama-clip",
+      "claim": "A video shows Indian Army personnel beating a protester in Delhi during the demonstrations against the Chief Election Commissioner.",
+      "status": "misleading",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Reverse searching frames led to a longer version of the clip posted by a Kashmir-based journalist in April 2017, and Indian Express and Deccan Herald reports from the same month carried the identical frame. Both identified the man being beaten as a student of Pulwama Degree College in Jammu and Kashmir, and a defence spokesman was then quoted saying the veracity of the videos was being ascertained.",
+      "why_misleading": "The clip is genuine 2017 footage from Jammu and Kashmir, recycled nine years later as evidence of army violence against a protester in Delhi.",
+      "original_source": "Posts on X",
+      "fact_checker": "India Today Fact Check",
+      "geo_scope": "India (Delhi)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "India Today Fact Check",
+          "title": "Fact Check: This video DOESN'T show Indian Army soldiers thrashing a protester in Delhi",
+          "url": "https://www.indiatoday.in/fact-check/story/indian-army-video-fact-check-2017-pulwama-clip-falsely-linked-to-delhi-protest-3016632-2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "abhijeet-dipke-fake-facebook-page",
+      "claim": "A blue-tick Facebook page posting about the Delhi protests is the official account of the Cockroach Janta Party founder.",
+      "status": "false",
+      "category": "scam",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "India Today Fact Check found the page was created in May 2026 under a misspelled version of the founder's name, follows only five accounts and not one party leader, unlike his Instagram account dating to 2014. The movement's legal affairs head told the team the page was fake, and the founder himself publicly denied having any Facebook page. Posts the page had shared, including AI-generated images of his detention and a West Bengal clip recast as Delhi, were deleted once challenged.",
+      "original_source": "Facebook page",
+      "fact_checker": "India Today Fact Check",
+      "geo_scope": "India (Delhi)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "India Today Fact Check",
+          "title": "Dip-fake: This blue-tick FB account spreading lies is NOT the real Abhijeet Dipke",
+          "url": "https://www.indiatoday.in/fact-check/story/abhijeet-dipke-fake-facebook-account-blue-tick-page-delhi-protests-3016579-2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "philippines-diyandi-festival-video-as-delhi-protest",
+      "claim": "A video of a huge crowd with a man filming from a vehicle is from the October 10 protest in Delhi.",
+      "status": "misleading",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "A reverse search surfaced a higher-quality October 6 upload making the same Delhi claim, but the footage carries a footbridge banner reading Diyandi Festival sa Iligan and a shop sign for Shann Gadget. Google Maps Street View placed that shop on Roxas Avenue in Iligan City in the Philippines and matched the surrounding structures, and local Facebook accounts had posted celebratory clips from the same spot in September during the month-long festival.",
+      "why_misleading": "The crowd footage is real but was shot at a religious festival in Iligan City in the Philippines, and the on-screen text re-dates it to the Delhi protest; the team could not establish exactly when it was filmed.",
+      "original_source": "Posts on X and Facebook",
+      "fact_checker": "India Today Fact Check",
+      "geo_scope": "India (Delhi)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "India Today Fact Check",
+          "title": "Fact Check: Video from the Philippines goes viral amid Delhi protests",
+          "url": "https://www.indiatoday.in/fact-check/story/delhi-protest-video-fact-check-gyanesh-kumar-philippines-diyandi-festival-3015089-2026-10-11"
+        }
+      ]
+    },
+    {
+      "id": "jammu-rajput-rally-video-as-jantar-mantar-mob",
+      "claim": "A video shows members of Hindu organisations travelling to Jantar Mantar to disrupt the planned Delhi protest.",
+      "status": "misleading",
+      "category": "communal",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Reverse searching frames found the video circulating since December 2022 and again in September 2024, and a shop signboard in it, Bakers Avenue, was located through Google Maps Street View at Dogra Chowk in Jammu. A neighbouring shop owner told India Today Fact Check it showed the Rajput rally held every year on September 23 to mark Maharaja Hari Singh's birth anniversary. Bajrang Dal and the Vishva Hindu Parishad separately denied any plan to go to Jantar Mantar and called the claim malicious propaganda.",
+      "why_misleading": "The rally footage is authentic but years old and from Jammu, and it is recast as Hindu groups mobilising to disrupt a protest in Delhi, a framing the organisations named in the posts denied.",
+      "original_source": "Posts on X",
+      "fact_checker": "India Today Fact Check",
+      "geo_scope": "India (Delhi)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "India Today Fact Check",
+          "title": "Fact Check: This video DOESN’T show Hindu organisations heading to Jantar Mantar to disrupt protests",
+          "url": "https://www.indiatoday.in/fact-check/story/jantar-mantar-protest-video-fact-check-jammu-rajput-rally-not-hindu-groups-3013394-2026-10-09"
+        }
+      ]
+    },
+    {
+      "id": "fake-fundraiser-ads-indian-pilot-hero",
+      "claim": "Online adverts invite donations to a fund covering the ICU care and rehabilitation of the Indian pilot hailed for saving passengers on a flydubai flight.",
+      "status": "false",
+      "category": "scam",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "India Today Fact Check traced the adverts to a Facebook page claiming to be a Mexican NGO, whose donate button led to a website saying card payments were down and asking donors to pay in cryptocurrency instead. The site's list of recent donors stayed frozen over 24 hours of checking, and the same page had run adverts using AI-generated images of children with invented backstories. Meta's Ad Library showed ten live donation adverts from the page at the time of writing.",
+      "original_source": "Facebook ads",
+      "fact_checker": "India Today Fact Check",
+      "geo_scope": "Global",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "India Today Fact Check",
+          "title": "Smit Machchhar saved 172 people. Who will save you from donating to scam fundraisers?",
+          "url": "https://www.indiatoday.in/fact-check/story/smit-machchhar-scam-fundraiser-warning-fake-donation-ads-hero-pilot-3012662-2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "messi-farewell-2022-world-cup-parade-video",
+      "claim": "A video shows huge crowds in Argentina gathering for Lionel Messi's farewell match for the national team.",
+      "status": "misleading",
+      "category": "society",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "A reverse search matched the clip to an upload on the official ESPN FC YouTube channel on December 20, 2022, captioned as four million people in the streets, and CBS News and others reported it as the World Cup victory homecoming in Buenos Aires. Reports on the farewell match confirmed it was a ticketed event inside the Monumental Stadium, with all 85,000 seats sold out within 90 minutes.",
+      "why_misleading": "The crowd footage is authentic but nearly four years old and records the 2022 World Cup victory parade, not the recent farewell match it is being shared alongside.",
+      "original_source": "Facebook posts",
+      "fact_checker": "India Today Fact Check",
+      "geo_scope": "Argentina",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "India Today Fact Check",
+          "title": "Fact Check: Argentina's 2022 World Cup victory parade VIRAL as Messi's farewell",
+          "url": "https://www.indiatoday.in/fact-check/story/argentina-world-cup-victory-parade-video-fact-check-old-clip-shared-as-messi-farewell-3012254-2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "lapid-netanyahu-modi-playbook-deepfake-video",
+      "claim": "A video is shared as showing Israel’s former prime minister saying that Netanyahu is borrowing Modi’s political playbook by turning a security incident into an election narrative.",
+      "status": "false",
+      "category": "ai-media",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "India Today Fact Check traced the footage to a clip published on Al Jazeera’s YouTube channel months earlier, in which the Israeli Opposition leader spoke in Hebrew and criticised Netanyahu’s Iran campaign as a failure and a diplomatic disaster. The English subtitles and a published transcript of that address contain no reference to Modi or to the 2019 Pulwama attack, and the AI-detection tool Hive Moderation rated the audio in the viral version as AI-generated with 99.4 per cent confidence.",
+      "original_source": "Social media posts",
+      "fact_checker": "India Today Fact Check",
+      "geo_scope": "Israel",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "India Today Fact Check",
+          "title": "Fact Check: Israel ex-PM said Netanyahu using Modi playbook? This is a deepfake",
+          "url": "https://www.indiatoday.in/fact-check/story/fact-check-yair-lapid-netanyahu-modi-playbook-video-deepfake-3011888-2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "gyanesh-kumar-protest-old-college-dance-clips",
+      "claim": "Two videos of young people dancing are shared as footage of the ongoing protests in New Delhi demanding the resignation of Chief Election Commissioner Gyanesh Kumar.",
+      "status": "misleading",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "India Today Fact Check reverse searched frames from both clips and found them posted months earlier by a Chandigarh student media account, geotagged to the Goswami Ganesh Dutta Sanatan Dharma College campus in Sector 32. The student who runs that account told the fact-checker that he shot both videos at the college, the first at a prom night on March 7 and the second at a club celebration on February 18, and that neither has anything to do with the demonstrations.",
+      "why_misleading": "Both clips are genuine recordings of college events in Chandigarh from February and March, but they are recirculated during the current agitation as if they showed revellers dancing at the protests in New Delhi, attaching real footage to an event it has no connection with.",
+      "original_source": "Social media posts",
+      "fact_checker": "India Today Fact Check",
+      "geo_scope": "India (New Delhi)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "India Today Fact Check",
+          "title": "Fact Check: These videos DON’T show women dancing at anti-Gyanesh Kumar protests",
+          "url": "https://www.indiatoday.in/fact-check/story/gyanesh-kumar-protest-videos-fact-check-chandigarh-college-dance-clips-old-delhi-election-commission-3011152-2026-10-06"
+        }
+      ]
+    },
+    {
+      "id": "virar-bangladeshi-flag-film-shoot-misidentified",
+      "claim": "A video of people carrying Bangladeshi flags in Virar is shared as showing illegal migrants raising them in Maharashtra, with some posts tying it to the voter-list revision drive.",
+      "status": "false",
+      "category": "communal",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "India Today Fact Check noticed production gear in the clip, including a mounted camera and a cloth light diffuser, and reverse searching its frames led to October 4 reports that a Bangladeshi flag had been raised during a shoot in Virar, Palghar, prompting local protests. The in-charge of the Bolinj police station told the fact-checker there was no illegal migrant or Bangladeshi angle and that the crew had permission for the outdoor shoot, including blocking one side of the road.",
+      "original_source": "Social media posts",
+      "fact_checker": "India Today Fact Check",
+      "geo_scope": "India (Maharashtra)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "India Today Fact Check",
+          "title": "Fact Check: Film shoot goes VIRAL as illegal migrants raise Bangladeshi flags",
+          "url": "https://www.indiatoday.in/fact-check/story/virar-bangladeshi-flag-video-fact-check-film-shoot-not-illegal-migrants-3010032-2026-10-05"
+        }
+      ]
+    },
+    {
+      "id": "cyclone-arnab-visakhapatnam-old-typhoon-bavi-video",
+      "claim": "A video of strong winds and swaying trees in a heavy downpour is shared as visuals of Cyclone Arnab making landfall on the Andhra Pradesh coast.",
+      "status": "false",
+      "category": "environment",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "A reverse image search on a frame of the clip led to a July 2026 report by Hong Kong outlet HK01, and to the same footage posted by the New York Post and the Associated Press, all identifying it as Typhoon Bavi. The Associated Press placed the visuals at Rota Island, a United States territory in the Pacific, so the recording was made months earlier and far from the cyclone it is being linked to.",
+      "original_source": "Social media posts",
+      "fact_checker": "The Quint WebQoof",
+      "geo_scope": "India (Andhra Pradesh)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "The Quint WebQoof",
+          "title": "Fact-Check: Old, Unrelated Video Falsely Shared as Visuals of Cyclone Arnab in Visakhapatnam",
+          "url": "https://www.thequint.com/news/webqoof/old-video-from-us-territory-falsely-linked-to-cyclone-arnab-visakhapatnam-fact-check"
+        }
+      ]
+    },
+    {
+      "id": "china-pla-captured-indian-soldier-old-video",
+      "claim": "A video of Chinese military personnel carrying away a man lying on the ground beside a frozen lake is shared as a recent capture of another Indian soldier by the PLA.",
+      "status": "misleading",
+      "category": "world",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "WebQoof ran reverse image searches on frames of the clip and found the same footage published in December 2025 by an Indian website and by News18 Hindi, along with older social media posts, some carrying an unverified story about the PLA helping an injured soldier. It also searched for reports of any recent skirmish between the two armies in Ladakh, where the lake named in the claim is located, and found none.",
+      "why_misleading": "The clip is real but dates from December 2025, and the lake named in the claim sits in Ladakh rather than in Arunachal Pradesh, where the recent face-off happened. Presenting it as fresh evidence of a capture recycles old, unrelated footage into a live border dispute.",
+      "original_source": "Social media posts",
+      "fact_checker": "The Quint WebQoof",
+      "geo_scope": "India (Ladakh)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "The Quint WebQoof",
+          "title": "Fact-Check:Old Video Falsely Shared as Recent Visual of Chinese Army Capturing Indian Soldier",
+          "url": "https://www.thequint.com/news/webqoof/old-video-chinese-army-captured-indian-soldier-fact-check"
+        }
+      ]
+    },
+    {
+      "id": "israelis-singing-hanuman-chalisa-tel-aviv-ai-video",
+      "claim": "A video is shared as showing Israelis singing the Hanuman Chalisa in Hebrew on a Tel Aviv beach as a tribute to an Indian pilot.",
+      "status": "false",
+      "category": "ai-media",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Reverse image and keyword searches found no credible report of such an event, and the clip shows synthetic tells: banner text behind the stage is illegible, distorts and expands around the 40-second mark, and a Gemini-style watermark appears in some frames. Frames were examined by the Deepfakes Analysis Unit using AI or Not, ImageWhisperer, Sightengine and Meta's identifier tool, which returned high AI and deepfake probabilities and detected Meta AI signatures.",
+      "original_source": "Social media posts",
+      "fact_checker": "The Quint WebQoof",
+      "geo_scope": "Israel",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "The Quint WebQoof",
+          "title": "Fact-Check: Viral Video of Israelis Singing Hanuman Chalisa in Tel Aviv Is AI-Generated",
+          "url": "https://www.thequint.com/news/webqoof/viral-video-of-israelis-singing-hanuman-chalisa-in-tel-aviv-ai-generated-fact-check"
+        }
+      ]
+    },
+    {
+      "id": "ai-image-rss-route-march-kannur-kerala",
+      "claim": "An image of uniformed RSS volunteers marching with sticks resting on their shoulders is shared as a real route march in Kannur district, Kerala.",
+      "status": "false",
+      "category": "ai-media",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "WebQoof found no news reports or credible sources for such a march through reverse image and keyword searches, and noticed that several faces in the crowd look almost identical, a common sign of synthetic generation. The image scored 99.6 percent likely AI-generated on Hive Moderation and 99 percent on IsThisAI, and SynthID Detector reported a watermark indicating it was generated or edited with OpenAI tools.",
+      "original_source": "Social media posts",
+      "fact_checker": "The Quint WebQoof",
+      "geo_scope": "India (Kerala)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "The Quint WebQoof",
+          "title": "Fact-Check: AI-Generated Image Falsely Shared to Show an RSS March in Kerala's Kannur",
+          "url": "https://www.thequint.com/news/webqoof/ai-generated-image-falsely-shared-to-show-rss-march-in-keralas-kannur-fact-check"
+        }
+      ]
+    },
+    {
+      "id": "ai-video-dgta-admitting-china-arunachal",
+      "claim": "A video is shared as the Director General of the Territorial Army admitting that China has taken control of parts of Arunachal Pradesh and that troops were denied supplies.",
+      "status": "false",
+      "category": "ai-media",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "A reverse image search traced the clip to an October 2023 ANI post in which the officer spoke about tourism and counter-terror operations in Jammu and Kashmir, with no reference to Arunachal Pradesh. The Deepfakes Analysis Unit found the audio matched live human markers by only eight percent on Hiya and was 75 percent likely AI-generated on Aurigin, Meta's identifier tool detected AI signatures, and the Indian Army's official fact-checking account called it a digitally altered video carrying fabricated remarks.",
+      "original_source": "Social media posts",
+      "fact_checker": "The Quint WebQoof",
+      "geo_scope": "India (Arunachal Pradesh)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "The Quint WebQoof",
+          "title": "Fact-Check: Video of DGTA Lt Gen Girish Kalia Admitting China Took Control of Parts of Arunachal Pradesh is AI",
+          "url": "https://www.thequint.com/news/webqoof/dgta-lt-gen-girish-kalia-did-not-admit-china-controlling-parts-of-arunachal-fact-check"
+        }
+      ]
+    },
+    {
+      "id": "ai-image-sonia-gandhi-meeting-epstein",
+      "claim": "An image is shared as showing Congress leader Sonia Gandhi sitting across a table from Jeffrey Epstein.",
+      "status": "false",
+      "category": "ai-media",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "A Google Lens reverse image search matched the framing of the viral image to photographs released by the US Department of Justice and reported by The Wire, which show Epstein seated opposite the Union petroleum and natural gas minister, with around ten similarly composed photos from that meeting. SynthID Detector also found a watermark indicating the viral image had been generated or edited using OpenAI tools.",
+      "original_source": "Social media posts",
+      "fact_checker": "The Quint WebQoof",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "The Quint WebQoof",
+          "title": "Fact-Check: Image of Sonia Gandhi Meeting Jeffrey Epstein Is AI-Altered",
+          "url": "https://www.thequint.com/news/webqoof/image-of-sonia-gandhi-meeting-jeffrey-epstein-is-ai-altered-fact-check"
+        }
+      ]
+    },
+    {
+      "id": "old-modi-meerut-speech-shared-as-anti-cec-reaction",
+      "claim": "A video of Prime Minister Narendra Modi attacking Congress leaders is shared as his recent reaction to the anti-CEC movement.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "A reverse image search showed the clip comes from a February 2026 address after the inauguration of development projects in Meerut, Uttar Pradesh, and a video on Modi's official YouTube channel uploaded on 22 February 2026 carries the same remarks at around the 32:11 mark. An Economic Times report on that speech records Modi criticising Congress over a protest at the AI Impact Summit, an unrelated occasion.",
+      "original_source": "Social media posts",
+      "fact_checker": "The Quint WebQoof",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "The Quint WebQoof",
+          "title": "Fact-Check: Old Video Shared to Show a Recent Video of PM Modi Reacting to Anti-CEC Movement",
+          "url": "https://www.thequint.com/news/webqoof/old-video-shared-as-recent-video-of-pm-modi-reacting-to-anti-cec-movement-fact-check"
+        }
+      ]
+    },
+    {
+      "id": "ai-altered-us-senator-india-failed-state",
+      "claim": "A video is shared as a US senator calling India a failed state with a collapsing economy and a weak military, after the Senate backed tariffs linked to Russian crude imports.",
+      "status": "false",
+      "category": "ai-media",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "A reverse image search led to a Business Today clip and to a longer video on the senator's own X account, both from 17 September 2026, in which he told India and China to buy oil and gas elsewhere and spoke about US support for Ukraine, without the remarks attributed to him. Hiya's deepfake voice detector gave the audio a very low human confidence score, Sightengine rated a frame 86 percent likely AI-generated, and the Press Information Bureau's fact-check account called the video fake and digitally manipulated.",
+      "original_source": "Social media posts",
+      "fact_checker": "The Quint WebQoof",
+      "geo_scope": "United States",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "The Quint WebQoof",
+          "title": "Fact-Check: Video of US Senator Richard Blumenthal Calling India a ‘Failed State’ Is Altered",
+          "url": "https://www.thequint.com/news/webqoof/us-senator-called-india-a-failed-state-altered-video-fact-check"
+        }
+      ]
+    },
+    {
+      "id": "scripted-bihar-video-man-marrying-daughter-dowry",
+      "claim": "A video is shared as showing a poor man from Bihar who married his own daughter because he could not afford to pay her dowry.",
+      "status": "false",
+      "category": "society",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Newschecker reverse searched keyframes from the clip and traced it to the social media accounts of a Bihar-based digital content creator who runs a local news page and regularly posts similar staged videos featuring the same characters. One of those videos carries a disclaimer stating that no such marriage took place and that the clip was meant as a warning against the practice. The fact-checkers then contacted the creator, who confirmed the video was scripted and did not depict a real incident.",
+      "original_source": "X posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Scripted Video Shared As Showing Hindu Man Marrying Daughter Due To Inability To Pay Dowry",
+          "url": "https://newschecker.in/fact-check/scripted-video-hindu-man-marrying-daughter-dowry/"
+        }
+      ]
+    },
+    {
+      "id": "madrid-street-vendors-video-as-france-looting",
+      "claim": "A video is shared as showing protesters in France selling luxury goods looted from high-end stores during the recent unrest.",
+      "status": "misleading",
+      "category": "world",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Newschecker reverse searched the clip and found the same footage posted on Facebook and on X on October 12, 2026, with captions placing it on the busy stretch between Gran Via and Callao in Madrid and complaining about blocked pavements. The fact-checkers also spotted the word Madrid on a bus and a metro signboard reading Gran Via inside the frames, and used those markers with Google Maps to geolocate the scene to the Spanish capital.",
+      "why_misleading": "The footage is genuine and recent, but it records street traders in central Madrid, and circulating it as scenes of looting after the French demonstrations attaches an unaltered foreign video to a country and an event it has nothing to do with.",
+      "original_source": "X posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "France",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Does This Video Show French Protesters Hawking Luxury Products Looted During Riots?",
+          "url": "https://newschecker.in/fact-check/does-this-video-show-protesters-hawking-luxury-products-looted-during-france-riot/"
+        }
+      ]
+    },
+    {
+      "id": "2015-mecca-execution-video-as-bangladeshi-nationals-2026",
+      "claim": "A video is shared as recent footage of the execution of two Bangladeshi nationals in Saudi Arabia over an offence inside a mosque in a holy city.",
+      "status": "misleading",
+      "category": "world",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Newschecker reverse searched the video and found a longer version posted on Facebook in January 2015, along with a CNN report of the same date and a Middle East Eye post of January 15, 2015, all identifying the footage as an execution carried out in Mecca at that time. An official statement issued by the Saudi authorities said the Bangladeshi nationals were executed on October 14, 2026, so the circulating clip predates that event by more than eleven years.",
+      "why_misleading": "The clip is authentic footage of an execution reported in January 2015, but it is being recirculated in October 2026 as if it documented the recent execution of two Bangladeshi nationals, giving eleven-year-old material a new and false context.",
+      "original_source": "X posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "Saudi Arabia",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Old Video Falsely Shared As Showing Execution Of Two Bangladeshi Nationals In Saudi Arabia",
+          "url": "https://newschecker.in/fact-check/old-video-falsely-shared-as-showing-execution-of-two-bangladeshi-nationals-in-saudi-arabia/"
+        }
+      ]
+    },
+    {
+      "id": "kaaba-couple-photo-as-executed-bangladeshi-nationals",
+      "claim": "A photograph of a couple in front of the Kaaba is shared as showing the two Bangladeshi nationals recently executed in Saudi Arabia.",
+      "status": "false",
+      "category": "world",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Newschecker first read the Saudi Ministry of Interior statement, which said the two death sentences were carried out in the Makkah region on October 14, 2026 without specifying the act involved, and then reverse searched the photograph. The search led to December 2024 reports by two Egyptian news outlets and to posts on the verified Instagram accounts of an Egyptian blogger couple, who had shared a pregnancy announcement photoshoot at the Kaaba in the same month.",
+      "original_source": "X posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "Saudi Arabia",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Does This Photo Show Bangladeshi Nationals Who Were Executed In Saudi Arabia?",
+          "url": "https://newschecker.in/fact-check/does-this-photo-show-bangladeshi-nationals-who-were-executed-in-saudi-arabia/"
+        }
+      ]
+    },
+    {
+      "id": "tbilisi-2024-protest-video-as-france-unrest",
+      "claim": "A video of people opening fire on a street is shared as footage of the ongoing protests in France over living costs and public services.",
+      "status": "misleading",
+      "category": "world",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Newschecker reverse searched the video and found an X post from December 1, 2024 carrying the same footage and describing protesters in Georgia responding to police action with fireworks. A report by 20 Minuten of the same date covered violent protests in Tbilisi, and details on the Associated Press website identify the clip as shot in the Georgian capital on December 1, 2024, when demonstrators used fireworks against riot police over the suspension of EU accession talks.",
+      "why_misleading": "The clip genuinely records the December 2024 demonstrations in Tbilisi, but it is presented in October 2026 as evidence of gunfire at the current French protests, attaching authentic foreign footage to an unrelated event nearly two years later.",
+      "original_source": "X posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "France",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Old Video From Georgia Falsely Linked To Protests in France",
+          "url": "https://newschecker.in/fact-check/old-video-from-georgia-falsely-linked-to-ongoing-protests-in-france/"
+        }
+      ]
+    },
+    {
+      "id": "ai-altered-pakistani-flag-rathee-london-protest",
+      "claim": "A photograph from Dhruv Rathee's London protest against Chief Election Commissioner Gyanesh Kumar is shared as showing a Pakistani national holding his country's flag.",
+      "status": "false",
+      "category": "ai-media",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Newschecker reverse searched the screenshot and reached the Instagram account of the man shown, where a near identical photograph had been posted in a carousel in August 2021 with a phone in his hand instead of a flag. Hive Moderation rated the viral version 99.9 per cent likely to contain AI-generated or deepfake content, Sightengine put it at 99 per cent, Google's SynthID flagged it as edited with OpenAI tools and OpenAI Verify confirmed the generation. The man then posted his Indian passport and said he had lived in India for 30 years before moving to the UK, and Rathee himself shared the original photographs to rebut the claim.",
+      "original_source": "X posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "United Kingdom",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Altered Photo Shared To Show Pakistani Man At Dhruv Rathee’s London Protest Against CEC",
+          "url": "https://newschecker.in/fact-check/altered-photo-shared-to-show-pakistani-man-at-dhruv-rathees-london-protest-against-cec/"
+        }
+      ]
+    },
+    {
+      "id": "london-independence-day-flags-video-as-anti-cec-protest",
+      "claim": "A video is shared as showing Pakistani and Bangladeshi flags being waved at the London demonstration organised by Dhruv Rathee against Chief Election Commissioner Gyanesh Kumar.",
+      "status": "misleading",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Newschecker reverse searched keyframes and matched the clip to a video posted by a London-based singer originally from Lahore, showing a large gathering holding Indian and Pakistani flags and singing together. An Indian Express report dated August 17, 2024 describes Indians and Pakistanis marking their respective independence days at London's Piccadilly Circus at an event organised by the same singer, who said on Instagram that his video promoting harmony between the two countries was trending again, and who also posted the identical clip on October 17, 2026, the day of the London protest.",
+      "why_misleading": "The gathering is real, but it is an India-Pakistan independence day celebration at Piccadilly Circus recorded well before the demonstration, and sharing it as footage of foreign flags at the anti-CEC protest drops the actual occasion, date and purpose of the event.",
+      "original_source": "X posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "United Kingdom",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Old Video Shared As Showing Pakistani, Bangladeshi Flags Being Waved At Dhruv Rathee’s Anti-CEC Protest In London",
+          "url": "https://newschecker.in/fact-check/old-video-pakistani-bangladeshi-flags-dhruv-rathee-anti-cec-protest-london/"
+        }
+      ]
+    },
+    {
+      "id": "bangladesh-shrine-vandalism-video-as-hindu-temple",
+      "claim": "A video is shared as showing a Hindu temple being vandalised in Bangladesh a week before Durga Puja.",
+      "status": "false",
+      "category": "communal",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Newschecker reverse searched a keyframe and found a similar video posted on BBC News Bangla's YouTube channel on April 12, 2026, reporting that a shrine at Daulatpur in Kushtia had been set on fire after allegations of desecration of the Quran, and that the man who headed it was killed. A Prothom Alo report of April 11, 2026, and coverage by Channel One News and Independent Television gave the same account, adding that the man had made controversial remarks about Islam and had been arrested in 2021 on charges including hurting religious sentiments.",
+      "original_source": "Social media posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "Bangladesh",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Does This Video Show A Temple Being Vandalised In Bangladesh Amid Durga Puja?",
+          "url": "https://newschecker.in/fact-check/does-this-video-show-a-temple-being-vandalised-in-bangladesh-amid-durga-puja/"
+        }
+      ]
+    },
+    {
+      "id": "ai-image-rahul-gandhi-kissing-student-activist",
+      "claim": "A photograph is shared as showing Congress leader Rahul Gandhi kissing a student wing activist on the cheek.",
+      "status": "false",
+      "category": "ai-media",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Newschecker found no credible report carrying the image and identified several physical impossibilities on close inspection, including a fifth hand in a two-person frame and the politician's left hand appearing under his right elbow. Hive Moderation rated the photograph 99.9 per cent likely to be AI-generated or deepfake content, IsItAI and Sightengine reached the same conclusion, and Google's SynthID identified it as produced with OpenAI tools, which OpenAI Verify then confirmed.",
+      "original_source": "Social media posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "AI-Generated Image Falsely Shows Rahul Gandhi Kissing Neha Bora",
+          "url": "https://newschecker.in/fact-check/ai-generated-image-falsely-shows-rahul-gandhi-kissing-neha-bora/"
+        }
+      ]
+    },
+    {
+      "id": "patna-august-march-video-as-delhi-tiranga-march",
+      "claim": "A video is shared as showing the Tiranga march called in Delhi on October 16, 2026 by the Cockroach Janata Party.",
+      "status": "misleading",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Newschecker reverse searched keyframes and found the same footage in a YouTube post dated August 20, 2026 whose text overlay placed the march in Patna, and in an Instagram post a day earlier by a Bihar youth wing account linking it to a march led by RJD leader Tejashwi Yadav against the state government. The fact-checkers geolocated the site to an area near Gandhi Maidan in Patna and noted that the Delhi march was only called for 5pm on October 16, weeks after the clip was already online.",
+      "why_misleading": "The march footage is authentic, but it records an August 2026 protest in Patna over state issues such as question paper leaks and unemployment, and presenting it as the October 16 Tiranga march in Delhi attaches real video to a different city, date and cause.",
+      "original_source": "X posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "India (Delhi)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Old Video From Patna Shared As Tiranga March In Delhi On October 16",
+          "url": "https://newschecker.in/fact-check/old-video-from-patna-shared-as-tiranga-march-in-delhi-on-october-16/"
+        }
+      ]
+    },
+    {
+      "id": "modi-meerut-february-2026-video-as-anti-cec-reaction",
+      "claim": "A video is shared as showing Prime Minister Narendra Modi launching a fresh attack on the Congress amid the protests against Chief Election Commissioner Gyanesh Kumar.",
+      "status": "misleading",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Newschecker reverse searched the clip and found a longer version posted by news agency ANI on February 22, 2026, from the Prime Minister's address at Meerut in Uttar Pradesh. The same segment appears around the 32-minute mark of the live stream on his official YouTube channel and in the published transcript of that speech, where the criticism concerns the conduct of Parliament and the demonstration at the AI Impact Summit in Delhi, both from February 2026.",
+      "why_misleading": "The remarks are genuine, but they were made in February 2026 about a parliamentary session and an earlier protest, so recirculating them during the October agitation presents an eight-month-old speech as the Prime Minister's response to current events.",
+      "original_source": "X posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Anti-CEC Stir: This Video Of PM Modi Lashing Out At Congress Is Old",
+          "url": "https://newschecker.in/fact-check/anti-cec-stir-this-video-of-pm-modi-lashing-out-at-congress-is-old/"
+        }
+      ]
+    },
+    {
+      "id": "jharkhand-hc-2025-video-as-cji-surya-kant-exchange",
+      "claim": "A video is shared as showing a Supreme Court lawyer telling Chief Justice of India Surya Kant that the country is burning during a heated exchange.",
+      "status": "misleading",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Newschecker first noted that the judge in the clip does not resemble the Chief Justice, then reverse searched keyframes and reached a longer version posted by the Times of India in October 2025 describing a tense routine hearing at the Jharkhand High Court. An NDTV report of October 17, 2025 and other coverage placed the argument in proceedings over a widow whose electricity connection had been cut for unpaid dues, and the live-streamed proceedings of October 16, 2025 on the Jharkhand High Court's official YouTube channel contain the same exchange.",
+      "why_misleading": "The courtroom footage is real, but it is from a Jharkhand High Court hearing in October 2025 between a different judge and a lawyer, and sharing it amid the anti-CEC protests recasts a year-old dispute over a widow's power connection as a confrontation with the Chief Justice of India.",
+      "original_source": "X posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "‘The Country Is Burning’: Old Video From Jharkhand HC Falsely Shared As Heated Exchange Between CJI and SC Lawyer",
+          "url": "https://newschecker.in/fact-check/old-video-from-jharkhand-hc-falsely-shared-as-heated-exchange-between-cji-and-sc-lawyer/"
+        }
+      ]
+    },
+    {
+      "id": "student-leader-cop-altercation-as-male-congress-worker-attack",
+      "claim": "A video is shared as showing a male Congress worker attacking a female Delhi Police officer during the protests against Chief Election Commissioner Gyanesh Kumar.",
+      "status": "false",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Newschecker reverse searched a keyframe and found the same incident filmed from another angle and posted by a national secretary of the Congress student wing, who said she and other students were mistreated and assaulted by police at Gate No. 7 of Rajiv Chowk Metro Station while protesting against alleged vote theft. Reports by Bhaskar English and Navbharat Times of October 14, 2026 described a physical altercation between that student leader and a female Delhi Police officer inside a bus after protesters were detained, and the Congress leadership publicly backed her the same day.",
+      "original_source": "Instagram posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "India (Delhi)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Does This Video Show Male Congress Worker Attacking Woman Cop During Anti-CEC Protest In Delhi?",
+          "url": "https://newschecker.in/fact-check/male-congress-worker-attacking-woman-cop-anti-cec-protest-delhi/"
+        }
+      ]
+    },
+    {
+      "id": "assam-cm-old-video-cjp-protest-threat",
+      "claim": "A video is shared as showing the Assam chief minister threatening members of the Cockroach Janata Party, saying they would be kicked out.",
+      "status": "misleading",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Keyword searches led Newschecker to the same footage on News24 and Republic Bharat channels and in an ANI post, all from April 2026, months before the claim spread. The longer versions show the chief minister speaking at an election rally in Baguiati, West Bengal, where his remark was aimed at infiltrators and Bangladeshi Muslims, not at the party whose volunteers had just been detained in Assam.",
+      "why_misleading": "The footage and the words are genuine, but they come from a five-month-old rally in another state about a different group of people, so the clip documents no threat to the protesters who were detained.",
+      "original_source": "Social media posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "India (Assam)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "‘Will Kick Them Out’: Does Viral Video Show Assam CM Threatening CJP Protesters?",
+          "url": "https://newschecker.in/fact-check/will-kick-them-out-does-viral-video-show-assam-cm-threatening-cjp-protesters/"
+        }
+      ]
+    },
+    {
+      "id": "scripted-video-elderly-muslim-man-harassment",
+      "claim": "A video is shared as showing men harassing an elderly disabled Muslim man in India and overturning his wheelchair.",
+      "status": "false",
+      "category": "communal",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "A reverse image search of keyframes took Newschecker to a YouTube channel that uploaded the same footage in December 2025 and states in its bio that its videos are scripted and planned for entertainment. Other uploads on that channel feature the same elderly man in different staged scenes, including standing and selling eggs, showing the harassment was performed by the same group.",
+      "original_source": "X posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Scripted Video Shared As Showing Elderly Disabled Muslim Man Being Harassed In India",
+          "url": "https://newschecker.in/fact-check/scripted-video-shared-as-showing-elderly-disabled-muslim-man-being-harassed-in-india/"
+        }
+      ]
+    },
+    {
+      "id": "tharoor-mecca-pact-altered-interview-audio",
+      "claim": "A video is shared as showing Congress MP Shashi Tharoor saying in an interview that the Mecca pact between Pakistan, Saudi Arabia and Turkey is a threat to India.",
+      "status": "false",
+      "category": "ai-media",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Newschecker traced the clip's Al Arabiya English watermark to the full September 2020 interview, where Tharoor said the opposite: it was premature to raise alarm over the declaration and he saw no direct threat from the alliance. Keyword searches found no credible report of the quoted remark, the lip area in the viral clip looks distorted, and two audio tools, the Hiya deepfake detector and Resemble AI, classified the voice as AI-generated. Tharoor himself reposted a correction.",
+      "original_source": "X posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Video Claiming To Show Shashi Tharoor Calling Mecca Pact A Threat To India Is Altered",
+          "url": "https://newschecker.in/fact-check/video-claiming-to-show-shashi-tharoor-calling-mecca-pact-a-threat-to-india-is-altered/"
+        }
+      ]
+    },
+    {
+      "id": "netanyahu-9-11-remark-clipped-un-speech",
+      "claim": "A video is shared as showing Israeli Prime Minister Benjamin Netanyahu telling the UN General Assembly that America deserved 9/11.",
+      "status": "misleading",
+      "category": "world",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "A reverse image search of keyframes led Newschecker to the UN's own YouTube channel carrying the full General Debate address. At the 27-minute mark the line is introduced as something said by a US political commentator whose views Netanyahu was citing while criticising New York's mayor, and the Israeli government's published transcript of the speech reflects the same sequence.",
+      "why_misleading": "The footage and the audio are authentic, but the clip starts mid-sentence and cuts out the words identifying another person as the source of the remark, turning a quotation into an apparent statement of Netanyahu's own view.",
+      "original_source": "X posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "Israel",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Did Benjamin Netanyahu Say ‘America Deserved 9/11’? No, Clipped Video Goes Viral",
+          "url": "https://newschecker.in/fact-check/did-benjamin-netanyahu-say-america-deserved-9-11-no-clipped-video-goes-viral/"
+        }
+      ]
+    },
+    {
+      "id": "jamui-case-girl-video-false-identity",
+      "claim": "A video of a girl crying is shared as showing the student who was allegedly assaulted in Bihar's Jamui district in September 2026.",
+      "status": "false",
+      "category": "crime",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "A reverse image search of keyframes traced the footage to an Instagram account that posted it in November 2025, ten months before the Jamui case, with the girl saying she is from Meghalaya and alleging that two boys had made an objectionable video of her using AI. Jamui Police replied publicly to a post carrying the clip, stating the girl is not the survivor and asking people not to circulate unverified material that could expose someone's identity.",
+      "original_source": "Social media posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "India (Bihar)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Jamui Molestation Case: No, This Video Does Not Show Survivor",
+          "url": "https://newschecker.in/fact-check/jamui-molestation-case-no-this-video-does-not-show-survivor/"
+        }
+      ]
+    },
+    {
+      "id": "meloni-palestinian-flag-ai-generated-video",
+      "claim": "A video is shared as showing Italian Prime Minister Giorgia Meloni at a UN event with a Palestinian flag over her shoulder while walking past Benjamin Netanyahu without acknowledging him.",
+      "status": "false",
+      "category": "ai-media",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Newschecker found no credible report of such an appearance and followed the clip's watermark to a TikTok account that first posted it in April 2026 along with other Meloni-themed videos, some explicitly labelled AI-generated. The UN logo in the backdrop is distorted, and four detection tools, Undetectable AI, WasItAI, IsItAI and Sightengine, flagged the footage and its extracted frames as likely machine-generated.",
+      "original_source": "X posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "Italy",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "AI-Generated Video Falsely Shows Giorgia Meloni Carrying Palestinian Flag At UN Event",
+          "url": "https://newschecker.in/fact-check/ai-generated-video-falsely-shows-giorgia-meloni-carrying-palestinian-flag-at-un-event/"
+        }
+      ]
+    },
+    {
+      "id": "jamui-case-police-parading-accused-videos",
+      "claim": "Two videos are shared as showing police parading men accused in the September 2026 assault case in Bihar's Jamui district.",
+      "status": "false",
+      "category": "crime",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Reverse image searches placed the first clip with December 2025 social posts and Dainik Bhaskar and Amar Ujala reports about a police procession in Khachrod, Ujjain district, Madhya Pradesh. The second matched July 2026 posts and reports by News18 and Dainik Bhaskar about arrested men being paraded in Alirajpur district, also in Madhya Pradesh, after a case registered with the Bori police station.",
+      "original_source": "X posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "India (Bihar)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Old, Unrelated Videos From Madhya Pradesh Shared As Police Parading Accused In Jamui Molestation Case",
+          "url": "https://newschecker.in/fact-check/unrelated-videos-shared-as-police-parading-accused-in-jamui-molestation-case/"
+        }
+      ]
+    },
+    {
+      "id": "sushant-rajput-ai-generated-cctv-screengrab",
+      "claim": "A screengrab is shared as leaked CCTV footage from the investigation into actor Sushant Singh Rajput's 2020 death, showing two other prominent film actors nearby.",
+      "status": "false",
+      "category": "ai-media",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Newschecker found no credible report of CCTV footage recovered from the actor's home, and India Today and Times of India had reported in July 2020 that police said no cameras were installed inside the residence. Reverse image searches plus Google AI and Meta AI labelled the screenshot fake, and the Deepfakes Analysis Unit's checks with AIorNot and Image Whisperer flagged it as likely AI-generated, pointing to distorted facial features and a staged composition that no real camera angle would produce.",
+      "original_source": "X posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Sushant Singh Rajput Death Case: AI-Generated Image Falsely Shared As Leaked CCTV Screengrab",
+          "url": "https://newschecker.in/ai-deepfake/sushant-singh-rajput-death-case-ai-generated-image-falsely-shared-as-leaked-cctv-screengrab/"
+        }
+      ]
+    },
+    {
+      "id": "bihar-mla-old-clip-jamui-case-reaction",
+      "claim": "A video is shared as a BJP MLA's reaction to the September 2026 Jamui assault case in Bihar, in which she says women are safe in the state.",
+      "status": "misleading",
+      "category": "politics",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "A reverse image search led Newschecker to a longer version published by The Indian Express in April 2026 and to an ANI upload of the same interaction, in which the MLA was answering another politician's remarks about women's safety in Bihar and Uttar Pradesh. Keyword searches found no report tying the statement to the Jamui case, and the MLA had separately posted that she found the incident reprehensible and shameful.",
+      "why_misleading": "The statement is real but was made five months earlier about a different political argument. Reusing it as her response to the Jamui case suggests she dismissed an incident she had in fact condemned, and hides that the assurance referred to a general debate on women's safety.",
+      "original_source": "X posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "India (Bihar)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "‘Women Are Safe In Bihar’: Old Video Of BJP MLA Maithili Thakur Shared As Her Reaction To Jamui Molestation Case",
+          "url": "https://newschecker.in/fact-check/old-video-of-bjp-mla-maithili-thakur-shared-as-her-reaction-to-jamui-molestation-case/"
+        }
+      ]
+    },
+    {
+      "id": "patna-junction-vendor-harassment-scripted-video",
+      "claim": "A video is shared as showing a man harassing a street vendor at Patna Junction, flipping his snacks tray and pushing him.",
+      "status": "false",
+      "category": "society",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Reverse image searches of keyframes led Newschecker to posts by the content creator who made the clip, on Facebook and Instagram in September, in which the men say the video was scripted for entertainment and ask viewers not to share it as real. Other videos on the same accounts show the two men repeatedly acting out staged scenarios together.",
+      "original_source": "Social media posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "India",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Viral Video Of Man Harassing Street Vendor At Patna Junction Is Scripted",
+          "url": "https://newschecker.in/fact-check/video-of-man-harassing-street-vendor-at-patna-junction-is-scripted/"
+        }
+      ]
+    },
+    {
+      "id": "kolkata-airport-mosque-bangladesh-video",
+      "claim": "A video is shared as showing the 136-year-old Gauripur Jama Masjid near Kolkata airport being destroyed by religious extremists to make way for a temple.",
+      "status": "false",
+      "category": "communal",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "A reverse image search of a keyframe matched Bangladeshi news reports from September 18, 2026 about a mob attacking a house in Pabna Sadar upazila after a criminal case there, with Ekushey Television, The Daily Star and Samakal carrying the same visuals. Keyword searches produced no report of any vandalism at the mosque near Kolkata airport, which BBC Bangla had reported in July 2026 had stopped prayers and was to be relocated.",
+      "original_source": "Social media posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "India (West Bengal)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Video From Bangladesh Shared As Showing 136-Yr-Old Masjid Near Kolkata Airport Being Razed To Make Way For Temple",
+          "url": "https://newschecker.in/fact-check/video-from-bangladesh-shared-as-showing-136-yr-old-masjid-near-kolkata-airport-being-razed-to-make-way-for-temple/"
+        }
+      ]
+    },
+    {
+      "id": "tehran-irgc-fire-old-china-video",
+      "claim": "A video is shared as showing the IRGC's Sar-Allah headquarters in Tehran engulfed in flames after a recent US military strike.",
+      "status": "false",
+      "category": "world",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "A reverse image search of keyframes led Newschecker to a September 2022 Hindustan Times report carrying the same footage of a 42-storey building burning in Changsha, China, corroborated the same day by South China Morning Post with details of the fire at the China Telecom tower. A stock-image listing of the same Changsha building and several other 2022 news reports confirmed the origin.",
+      "original_source": "X posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "Iran",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "West Asia Crisis: Old Video From China Falsely Shared As US Attack On IRGC Facility In Tehran",
+          "url": "https://newschecker.in/fact-check/old-video-shared-as-us-attack-on-irgc-facility-in-tehran/"
+        }
+      ]
+    },
+    {
+      "id": "russia-fire-video-actually-egypt",
+      "claim": "A video is shared as showing a massive fire in Russia caused by a recent Ukrainian drone attack on Moscow and the surrounding region.",
+      "status": "false",
+      "category": "world",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Newschecker concluded the footage has no link to the Russia-Ukraine conflict and actually shows a large commercial fire in the Talbiya area of Faisal, Giza, in Egypt. The outlet noted the same clip had earlier circulated with another false claim, that it showed the aftermath of an Iranian strike on Israel, which it had already debunked in July 2026.",
+      "original_source": "X posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "Russia",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Old Video From Egypt Falsely Linked To Recent Ukrainian Drone Attack On Russia",
+          "url": "https://newschecker.in/fact-check/old-video-from-egypt-falsely-linked-to-recent-ukrainian-drone-attack-on-russia/"
+        }
+      ]
+    },
+    {
+      "id": "gurugram-hit-and-run-rally-old-video",
+      "claim": "A video is shared as showing a recent car rally held in support of a man arrested in the Gurugram hit-and-run case.",
+      "status": "false",
+      "category": "crime",
+      "added_date": "2026-10-29",
+      "review_date": "2026-10-29",
+      "explanation": "Reverse image searches found the same footage in Instagram posts from April and May 2025, well before the hit-and-run case, one of them carrying hashtags about a film with a thumbnail of people at a cinema. Newschecker noted that although a community gathering was indeed called in the arrested man's support, the viral video does not show it because the clip had already been circulating for months.",
+      "original_source": "Instagram posts",
+      "fact_checker": "Newschecker",
+      "geo_scope": "India (Haryana)",
+      "archived": false,
+      "evidence": [
+        {
+          "source": "Newschecker",
+          "title": "Old Video Falsely Shared As Car Rally In Support Of Gurugram Hit-and-Run Accused",
+          "url": "https://newschecker.in/fact-check/old-video-falsely-shared-as-car-rally-in-support-of-gurugram-hit-and-run-accused/"
+        }
+      ]
+    }
+  ]
+}
