@@ -1,0 +1,26 @@
+# Netlify config — Fake News Analyzer
+# Frontend lives in website/ (React + Vite). The app calls relative /api/*
+# paths (website/src/api.js), so Netlify proxies them to the Render backend.
+#
+# >>> EDIT ONE LINE BELOW: replace RENDER_BACKEND_URL_NOT_SET with the
+# >>> hostname Render assigns, e.g. https://fake-news-analyzer-api.onrender.com
+
+[build]
+  base = "website"
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# Must come first: rules are evaluated top-down and the first match wins.
+[[redirects]]
+  from = "/api/*"
+  to = "https://RENDER_BACKEND_URL_NOT_SET.onrender.com/api/:splat"
+  status = 200
+
+# Hash routing (#/checker) already survives refresh; this only catches stray paths.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

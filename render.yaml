@@ -1,0 +1,17 @@
+# Render blueprint — Fake News Analyzer FastAPI backend.
+# Free plan only. No paid AI services: inference runs from ml/best_model.pkl.
+#
+# Create via Render dashboard > Blueprints > "Add Blueprint Repository",
+# or New + > Web Service and let Render detect this file.
+
+services:
+  - type: web
+    name: fake-news-analyzer-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r backend/requirements.txt
+    startCommand: cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11.9"
