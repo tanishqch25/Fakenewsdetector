@@ -16,7 +16,7 @@
 # Must come first: rules are evaluated top-down and the first match wins.
 [[redirects]]
   from = "/api/*"
-  to = "https://RENDER_BACKEND_URL_NOT_SET.onrender.com/api/:splat"
+  to = "https://fake-news-analyzer-api.onrender.com/api/:splat"
   status = 200
 
 # Hash routing (#/checker) already survives refresh; this only catches stray paths.
